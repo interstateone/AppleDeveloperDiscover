@@ -1,0 +1,26 @@
+name: Publish
+on:
+  push:
+  schedule:
+    # Daily at midnight
+    - cron:  '0 0 * * *'
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+        uses: actions/checkout@v2 
+        with:
+          persist-credentials: false
+
+      - name: Generate 🔧
+        run: |
+          swift run
+
+      - name: Publish 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: output
