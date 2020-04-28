@@ -5,10 +5,24 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Sun, 26 Apr 2020 00:06:14 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2020 00:06:36 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>How to prepare your app for a global audience</title>
+            <link>https://developer.apple.com/news/?id=vdo2w6y4</link>
+            <description>&#60;p&#62;How to prepare your app for a global audience&#60;/p&#62;&#60;p&#62;The App Store is available in 175 countries and regions and 40 languages to make it easy for people around the world to discover and download your app. This week&#44; we&#8217;re showing you how localizing your app can help make it more relevant to local cultures and languages and help you grow your business &#8212;&#160;and that starts with preparing your app for a global audience. Structure your app for localization Internationalization&#44; the process of structuring your app&#8217;s code and UI for localization&#44; is a fundamental first step in building apps for a global audience. With Apple&#8217;s powerful tools and technologies&#44; including Xcode 11&#44; Apple APIs&#44; Auto Layout&#44; and Unicode support&#44; it&#8217;s easy to prepare your apps to support multiple languages and regions&#44; even before you know which languages you&#8217;d like to add.&#60;/p&#62;&#60;p&#62;In Xcode&#44; make sure your user-visible text and images are separate from your executable code. When you translate these elements into other languages&#44; you can integrate the content back into your app as separate localized resource files stored within the app bundle.&#60;/p&#62;&#60;p&#62;Images &#8212; including image sets&#44; Apple Watch complications&#44; Apple TV image stacks&#44; Sprite Atlases&#44; and symbol sets &#8212; can be localized directly in your Asset Catalog. You can also use localized &#60;a href&#61;&#34;https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/&#34;&#62;SF system symbols&#60;/a&#62; and set the directionality for custom symbols &#8212; for example&#44; for right-to-left languages like Arabic and Hebrew.&#60;/p&#62;&#60;p&#62;Use Apple APIs to correctly express user-visible or dynamically-generated values&#44; such as dates&#44; lengths&#44; weights&#44; prices&#44; and currency symbols&#44; across different locales. Ensure your app accepts user-generated text in any language and in multiple languages at once&#44; independent of the user interface language. This allows app content to appear in someone&#8217;s preferred language and format.&#60;/p&#62;&#60;p&#62;You can also take advantage of Auto Layout to automatically adjust the dimensions and layouts of views&#44; extensive Unicode support to work with text from any language&#44; the powerful text handling technologies of Cocoa and Cocoa Touch to display&#44; lay out&#44; and edit text in many languages&#44; and much more.&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/videos/play/wwdc2019/403/&#34;&#62;Watch &#8220;Create great localized experiences with Xcode 11&#8221; &#38;gt;&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://help.apple.com/xcode/mac/current/#/deve2bc11fab&#34;&#62;Learn more about localizing your app in Xcode &#38;gt;&#60;/a&#62;&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;Investigate market factors Market-specific demographics&#44; such as population&#44; language&#44; and purchasing power&#44; can help you better understand areas that might have an affinity or need for your app. Every market has its own preferences for the types of apps or categories customers most enjoy. For example&#44; games are popular worldwide&#44; however strategy games may be more popular in a particular region.&#60;/p&#62;&#60;p&#62;Consider selecting markets with similar attributes to those in which you have already established success&#44; such as strong app downloads&#44; sales&#44; usage&#44; or retention metrics&#44; as this may make for easier growth. When selecting a market&#44; assess how your app might fit in and how its value and functionality aligns with that market&#8217;s needs. You may even identify a need in the market that is not yet filled&#44; allowing you to bring unique value to people with your app. Use App Analytics to determine potential markets If you offer your app worldwide but haven&#8217;t localized for particular regions&#44; you can look at key performance metrics&#44; such as Product Page Views&#44; App Units&#44; Sales&#44; and Active Devices&#44; filtered by territory. This can help you determine if your app is attracting people in a particular territory that might benefit from localization. For example&#44; if your app is primarily in English and you see lower than average retention or Sessions per Active Device in Germany&#44; you might consider adding German language support. Keep in mind that some markets may have greater proficiency with your app&#8217;s primary language&#44; while others may require more significant localization work. Usage data such as active devices&#44; sessions&#44; and retention include only users who have agreed to share their diagnostics and usage information with you.&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store-connect/analytics/?cid&#61;developer80&#34;&#62;Learn more about gaining insights with App Analytics &#38;gt;&#60;/a&#62;&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;Consider local culture and customs While your app and product page should each provide a consistent experience across all markets&#44; it&#8217;s sometimes valuable to refine certain elements for cultural relevance. For example&#44; you might try incorporating market-specific content or cultural moments&#44; such as special holiday content or regional art styles. You may want to consider any local policies and market regulations&#44; as well as any political or religious sensitivities&#44; to increase the likelihood that your app is well received.&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;Resources &#60;a href&#61;&#34;https://developer.apple.com/localization/?cid&#61;developer80&#34;&#62;Learn more about expanding your app to new markets &#38;gt;&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/localization/resources/?cid&#61;developer80&#34;&#62;Get more resources for localization &#38;gt;&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 27 Apr 2020 17:00:52 +0000</pubDate>
+            <guid isPermaLink="false">FFFB3BCB-B746-445C-9625-9CCB2E6CCE59</guid>
+        </item>
+        <item>
+            <title>Apple Search Ads Now Available in Russia</title>
+            <link>https://developer.apple.com/news/?id=04272020a</link>
+            <description>&#60;p&#62;Apple Search Ads Now Available in Russia&#60;/p&#62;&#60;p&#62;Promote your apps to customers on the App Store in Russia with Apple Search Ads &#8212; an efficient and easy way for people to discover your app the very moment they&#8217;re searching for apps like yours. If you sign up for a new Apple Search Ads account&#44; you can take advantage of a 100 USD credit to reach customers in 60 countries and regions. &#60;a href&#61;&#34;https://searchads.apple.com/?cid&#61;sa-us-in-A173-dr-a-news&#34;&#62;Learn about Search Ads&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 27 Apr 2020 15:50:26 +0000</pubDate>
+            <guid isPermaLink="false">75FE5AFD-F747-445F-B67C-B3B55937CFE6</guid>
+        </item>
         <item>
             <title>Meet the developer: Philip Lam</title>
             <link>https://developer.apple.com/news/?id=wk9cj822</link>
@@ -605,60 +619,11 @@
             <guid isPermaLink="false">760E37BA-55D2-4F84-A7F4-9689BEF6C88D</guid>
         </item>
         <item>
-            <title>Siri</title>
-            <link>https://developer.apple.com/news/?id=06032019g</link>
-            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
-        </item>
-        <item>
-            <title>See What&#8217;s New on Apple Platforms</title>
-            <link>https://developer.apple.com/news/?id=06032019a</link>
-            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
-        </item>
-        <item>
-            <title>Bring Your iPad App to Mac</title>
-            <link>https://developer.apple.com/news/?id=06032019c</link>
-            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
-        </item>
-        <item>
-            <title>Augmented Reality</title>
-            <link>https://developer.apple.com/news/?id=06032019f</link>
-            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
-        </item>
-        <item>
             <title>Machine Learning</title>
             <link>https://developer.apple.com/news/?id=06032019e</link>
             <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
             <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
-        </item>
-        <item>
-            <title>Sign in with Apple</title>
-            <link>https://developer.apple.com/news/?id=06032019d</link>
-            <description>&#60;p&#62;Sign in with Apple&#60;/p&#62;&#60;p&#62;Now users can sign in to your apps and websites with their Apple ID&#44; and can even use Face ID or Touch ID. With privacy and security features&#44; Sign in with Apple is a great way to help your users set up an account and get started right away.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
-        </item>
-        <item>
-            <title>Notarization Requirement for Mac Software</title>
-            <link>https://developer.apple.com/news/?id=06032019i</link>
-            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
-        </item>
-        <item>
-            <title>Feedback Assistant</title>
-            <link>https://developer.apple.com/news/?id=06032019h</link>
-            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
         </item>
         <item>
             <title>SwiftUI</title>
@@ -668,11 +633,60 @@
             <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
         </item>
         <item>
+            <title>Augmented Reality</title>
+            <link>https://developer.apple.com/news/?id=06032019f</link>
+            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
+        </item>
+        <item>
             <title>Updates to the App Store Review Guidelines</title>
             <link>https://developer.apple.com/news/?id=06032019j</link>
             <description>&#60;p&#62;Updates to the App Store Review Guidelines&#60;/p&#62;&#60;p&#62;The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful&#44; we sometimes need to update the App Store Review Guidelines.&#60;/p&#62;&#60;p&#62;Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps&#44; unless otherwise indicated.&#60;/p&#62;&#60;ul&#62;&#60;li&#62;&#60;strong&#62;Guidelines 1.3 and 5.1.4.&#60;/strong&#62; In order to help keep kids&#8217; data private&#44; apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.7.&#60;/strong&#62; HTML5 games distributed in apps may not provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; and may not support digital commerce. This functionality is only appropriate for code that&#8217;s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.4.&#60;/strong&#62; Because VPN provides access to sensitive data&#44; VPN apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy. Certain types of apps &#8212; such as those for parental control&#44; content blocking&#44; and security &#8212; from approved providers may use the NEVPNManager API.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.5. (New)&#60;/strong&#62; Because MDM provides access to sensitive data&#44; MDM apps must request the mobile device management capability&#44; and may only be offered by commercial enterprises&#44; such as business organizations&#44; educational institutions&#44; or government agencies&#44; and&#44; in limited cases&#44; companies utilizing MDM for parental controls. MDM apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.3(i).&#60;/strong&#62; Apps may use a user&#8217;s health or fitness data to provide a benefit directly to that user&#44; such as a reduced insurance premium&#44; if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(viii) (New).&#60;/strong&#62; Apps that compile information from any source that is not directly from the user or without the user&#8217;s explicit consent&#44; even public databases&#44; are not permitted on the App Store.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(ii).&#60;/strong&#62; Apps must get consent for data collection&#44; even if the data is considered anonymous at the time of or immediately following collection.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 1.1.3.&#60;/strong&#62; Apps may not facilitate purchase of ammunition.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.2.7.&#60;/strong&#62; Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.&#60;/li&#62;&#60;/ul&#62;&#60;p&#62;Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.&#60;/p&#62;&#60;p&#62;Sign in with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.&#60;/p&#62;&#60;p&#62;&#123;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/&#34;&#62;Read App Store Review Guidelines&#60;/a&#62;&#125;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
             <guid isPermaLink="false">DA75EFAE-344E-4FFA-8372-5337BCBD6617</guid>
+        </item>
+        <item>
+            <title>See What&#8217;s New on Apple Platforms</title>
+            <link>https://developer.apple.com/news/?id=06032019a</link>
+            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
+        </item>
+        <item>
+            <title>Feedback Assistant</title>
+            <link>https://developer.apple.com/news/?id=06032019h</link>
+            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
+        </item>
+        <item>
+            <title>Bring Your iPad App to Mac</title>
+            <link>https://developer.apple.com/news/?id=06032019c</link>
+            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
+        </item>
+        <item>
+            <title>Notarization Requirement for Mac Software</title>
+            <link>https://developer.apple.com/news/?id=06032019i</link>
+            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
+        </item>
+        <item>
+            <title>Sign in with Apple</title>
+            <link>https://developer.apple.com/news/?id=06032019d</link>
+            <description>&#60;p&#62;Sign in with Apple&#60;/p&#62;&#60;p&#62;Now users can sign in to your apps and websites with their Apple ID&#44; and can even use Face ID or Touch ID. With privacy and security features&#44; Sign in with Apple is a great way to help your users set up an account and get started right away.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
+        </item>
+        <item>
+            <title>Siri</title>
+            <link>https://developer.apple.com/news/?id=06032019g</link>
+            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
         </item>
     </channel>
 </rss>
