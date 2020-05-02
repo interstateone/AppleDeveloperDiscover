@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 May 2020 00:07:03 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2020 00:06:37 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Meet the developer: Shelley Taylor</title>
+            <link>https://developer.apple.com/news/?id=2zjvl2ig</link>
+            <description>&#60;p&#62;Meet the developer: Shelley Taylor&#60;/p&#62;&#60;p&#62;In 2015&#44; a 3-year-old Syrian boy named Aylan Kurdi drowned in the Mediterranean Sea trying to reach Europe with his family. The image of his body washed up on a beach in Lebanon devastated American startup veteran Shelley Taylor.&#60;/p&#62;&#60;p&#62;&#8220;These migrants are coming into Europe&#44; they get here&#44; and they don&#8217;t know how to find the basic things&#8212;the supermarket&#44; shelter&#44; the doctor&#44;&#8221; says Taylor&#44; CEO of Trellyz&#44; which creates software for cities and nonprofits. &#8220;And I thought&#44; they all have smartphones&#44; maybe I can create something that will let them find what they need when they need it.&#8221;&#60;/p&#62;&#60;p&#62;Over a weekend she built &#60;em&#62;RefAid&#8212;Refugee Aid App&#60;/em&#62; and launched it in the UK and Italy in February 2016. The app catalogs aid organizations&#8217; services for migrants and refugees seeking to build a new life in Europe and&#44; increasingly&#44; the United States.&#60;/p&#62;&#60;p&#62;These days&#44; the app is evolving from one designed to meet the basic daily survival needs of refugees to one able to tackle the many challenges of the mounting migrant crisis at the U.S. border and provide information during COVID-19.&#60;/p&#62;&#60;p&#62;Services have been added to address family separation&#44; offering constantly updated intel about legal aid as well as geo-targeted push notifications with crucial on-the-ground information. For example&#44; RefAid might send an alert with a phone number for free legal help in an area where migrants are being rounded up.&#60;/p&#62;&#60;p&#62;The app (which is now available in 25 countries&#44; with some 5&#44;000 aid organizations contributing) will soon include services in most U.S. states. Taylor and her team are constantly reaching out to more nonprofits and public service providers to include them in the app. Through a web-based content management system&#44; they can manage and update their offerings and communicate directly with people.&#60;/p&#62;&#60;blockquote&#62;These migrants are coming into Europe&#44; they get here&#44; and they don&#8217;t know how to find the basic things&#8212;the supermarket&#44; shelter&#44; the doctor.&#60;/blockquote&#62;&#60;p&#62;&#38;mdash; &#60;/p&#62;&#60;p&#62;Available in English&#44; Arabic&#44; Farsi&#44; Spanish&#44; and soon French&#44; the app directs refugees (using geolocation) to aid within a 100-mile radius. The services are sorted by categories like legal&#44; food&#44; education&#44; work&#44; media&#44; faith groups&#44; psychological&#44; and more. Solving one problem at a time Before launching RefAid&#44; Taylor&#8212;who was raised in Palo Alto&#44; California&#44; but lives in Europe&#8212;needed to contact aid organizations and have them provide a list of services that could help migrants in need. She started with the United Nations High Commission for Refugees and the British Red Cross but quickly ran into a roadblock: Most of them didn&#8217;t readily know all of the services they provided.&#60;/p&#62;&#60;p&#62;Taylor waited weeks for aid groups to get back to her. &#8220;We called them and said&#44; &#8216;Did you change your mind? Where are your services? We just need a little spreadsheet.&#8217;&#8221; And they said&#44; uniformly&#44; &#8216;Oh&#44; we have to call each of the offices to ask them because nothing is written down.&#8221;&#60;/p&#62;&#60;p&#62;Eventually&#44; Taylor created what may be the first global database of nonprofit services. She doesn&#8217;t charge the organizations to use the app&#44; covering the development and operating costs herself. &#8220;We didn&#8217;t want anyone to have an excuse to say no to putting their services on the app&#44; because it&#8217;s such a huge problem and people really need help.&#8221; Help finding help Although RefAid doesn&#8217;t have the capacity to respond to real-time updates from refugees and migrants&#44; Taylor has anticipated the needs of people arriving by either land or sea.&#60;/p&#62;&#60;p&#62;&#8220;When you come into Greece&#44; for example&#44; the organizations don&#8217;t have the right to go to the beach directly. They have to stay in their offices &#8212; that&#8217;s the law. But&#44; if somebody has told migrants to look at the app&#44; those migrants can discover that around the corner there&#8217;s a Red Cross office and food vouchers&#44; which they couldn&#8217;t have found otherwise.&#8221;&#60;/p&#62;&#60;p&#62;The app is used primarily in the U.S.&#44; the UK&#44; Belgium&#44; France&#44; Italy&#44; and Greece. After the first attempted U.S. travel ban in January 2017&#44; RefAid quickly deployed in 19 American cities&#44; cataloging legal services nearby for those trapped at U.S. airports. In May 2018&#44; 40 other cities&#8212;including Oslo&#44; Athens&#44; and Amsterdam&#8212;began listing their services.&#60;/p&#62;&#60;p&#62;During the current U.S. migrant crisis&#44; new services from different aid organizations are being added daily. Some large resettlement organizations in the U.S.&#44; such as the International Refugee Committee&#44; have actually started preloading cell phones with the RefAid app and giving them to migrants.&#60;/p&#62;&#60;p&#62;&#8220;It&#8217;s exciting to see how it&#8217;s growing&#44;&#8221; Taylor says&#44; &#8220;but we still haven&#8217;t mapped the whole world. And that&#8217;s our goal: to map all of the services available to refugees and everyone else in the whole world. It&#8217;s just a step at a time.&#8221;&#60;/p&#62;&#60;p&#62;&#60;em&#62;Originally published on the App Store.&#60;/em&#62;&#60;/p&#62;</description>
+            <pubDate>Fri, 01 May 2020 17:00:26 +0000</pubDate>
+            <guid isPermaLink="false">36D0F66B-7193-4EB2-B925-5C283119346E</guid>
+        </item>
         <item>
             <title>How to support per-app language settings in your app</title>
             <link>https://developer.apple.com/news/?id=u2cfuj88</link>
@@ -563,18 +570,18 @@
             <guid isPermaLink="false">107EC978-4AB6-4BE1-B716-77E463FC1E93</guid>
         </item>
         <item>
-            <title>App Updates in the Kids Category</title>
-            <link>https://developer.apple.com/news/?id=091202019a</link>
-            <description>&#60;p&#62;App Updates in the Kids Category&#60;/p&#62;&#60;p&#62;When parents visit the Kids category on the &#123;App Store&#125;&#44; they expect the apps they find will protect their children&#8217;s data&#44; provide only age-appropriate content&#44; and require a parental gate in order to link out of the app&#44; request permissions&#44; or present purchasing opportunities. It&#8217;s critical that no personally identifiable information or device information be transmitted to third parties&#44; and that advertisements are human-reviewed for age appropriateness in order to be displayed.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids-category&#34;&#62;Guideline 1.3&#60;/a&#62; and &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids&#34;&#62;guideline 5.1.4&#60;/a&#62; detail important rules related to apps in the Kids category and we&#8217;ve been working with some developers of existing apps to assist them in the transition to full compliance with this important guideline.&#60;/p&#62;&#60;p&#62;All new apps must follow these guidelines&#44; and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement these guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into full compliance.&#60;/p&#62;</description>
-            <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D1065DA6-607E-478E-A0AC-71DB05F1BE86</guid>
-        </item>
-        <item>
             <title>New Guidelines for Sign in with Apple</title>
             <link>https://developer.apple.com/news/?id=09122019b</link>
             <description>&#60;p&#62;New Guidelines for Sign in with Apple&#60;/p&#62;&#60;p&#62;Make it easy for users to sign in to your apps and websites using the &#123;Apple ID&#125; they already have. With privacy and security features built-in&#44; &#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Sign in with Apple&#60;/a&#62; is a great way to help users set up an account&#44; sign in&#44; and engage with your app quickly and easily. All accounts are protected with two-factor authentication for superior security&#44; and Apple will not track users&#8217; activity in your app or website.&#60;/p&#62;&#60;p&#62;We&#8217;ve updated the &#123;App Store&#125; Review Guidelines to provide criteria for when apps are required to use &#123;Sign in with Apple&#125;. Starting today&#44; new apps submitted to the &#123;App Store&#125; must follow these guidelines. Existing apps and app updates must follow them by &#123;April 2020&#125;. We&#8217;ve also provided new guidelines for using Sign in with Apple on the web and other platforms.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#sign-in-with-apple&#34;&#62;View the App Store review guideline&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/usage-guidelines-for-websites-and-other-platforms/&#34;&#62;View guidelines for websites and other platforms&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
             <guid isPermaLink="false">D03656FC-9B30-474D-BBE3-5E4B7D058773</guid>
+        </item>
+        <item>
+            <title>App Updates in the Kids Category</title>
+            <link>https://developer.apple.com/news/?id=091202019a</link>
+            <description>&#60;p&#62;App Updates in the Kids Category&#60;/p&#62;&#60;p&#62;When parents visit the Kids category on the &#123;App Store&#125;&#44; they expect the apps they find will protect their children&#8217;s data&#44; provide only age-appropriate content&#44; and require a parental gate in order to link out of the app&#44; request permissions&#44; or present purchasing opportunities. It&#8217;s critical that no personally identifiable information or device information be transmitted to third parties&#44; and that advertisements are human-reviewed for age appropriateness in order to be displayed.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids-category&#34;&#62;Guideline 1.3&#60;/a&#62; and &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids&#34;&#62;guideline 5.1.4&#60;/a&#62; detail important rules related to apps in the Kids category and we&#8217;ve been working with some developers of existing apps to assist them in the transition to full compliance with this important guideline.&#60;/p&#62;&#60;p&#62;All new apps must follow these guidelines&#44; and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement these guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into full compliance.&#60;/p&#62;</description>
+            <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
+            <guid isPermaLink="false">D1065DA6-607E-478E-A0AC-71DB05F1BE86</guid>
         </item>
         <item>
             <title>Submit Your watchOS Apps to the &#123;App Store&#125;</title>
@@ -640,41 +647,6 @@
             <guid isPermaLink="false">760E37BA-55D2-4F84-A7F4-9689BEF6C88D</guid>
         </item>
         <item>
-            <title>Feedback Assistant</title>
-            <link>https://developer.apple.com/news/?id=06032019h</link>
-            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
-        </item>
-        <item>
-            <title>SwiftUI</title>
-            <link>https://developer.apple.com/news/?id=06032019b</link>
-            <description>&#60;p&#62;SwiftUI&#60;/p&#62;&#60;p&#62;SwiftUI is an innovative new way to build user interfaces across all Apple platforms&#44; so you can create better apps with less code. With a declarative Swift syntax that&#8217;s easy to read and natural to write&#44; SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type&#44; Dark Mode&#44; localization&#44; and accessibility means your first line of SwiftUI code is already the most powerful UI code you&#8217;ve ever written.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/xcode/swiftui/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
-        </item>
-        <item>
-            <title>See What&#8217;s New on Apple Platforms</title>
-            <link>https://developer.apple.com/news/?id=06032019a</link>
-            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
-        </item>
-        <item>
-            <title>Siri</title>
-            <link>https://developer.apple.com/news/?id=06032019g</link>
-            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
-        </item>
-        <item>
-            <title>Bring Your iPad App to Mac</title>
-            <link>https://developer.apple.com/news/?id=06032019c</link>
-            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
-        </item>
-        <item>
             <title>Updates to the App Store Review Guidelines</title>
             <link>https://developer.apple.com/news/?id=06032019j</link>
             <description>&#60;p&#62;Updates to the App Store Review Guidelines&#60;/p&#62;&#60;p&#62;The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful&#44; we sometimes need to update the App Store Review Guidelines.&#60;/p&#62;&#60;p&#62;Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps&#44; unless otherwise indicated.&#60;/p&#62;&#60;ul&#62;&#60;li&#62;&#60;strong&#62;Guidelines 1.3 and 5.1.4.&#60;/strong&#62; In order to help keep kids&#8217; data private&#44; apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.7.&#60;/strong&#62; HTML5 games distributed in apps may not provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; and may not support digital commerce. This functionality is only appropriate for code that&#8217;s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.4.&#60;/strong&#62; Because VPN provides access to sensitive data&#44; VPN apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy. Certain types of apps &#8212; such as those for parental control&#44; content blocking&#44; and security &#8212; from approved providers may use the NEVPNManager API.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.5. (New)&#60;/strong&#62; Because MDM provides access to sensitive data&#44; MDM apps must request the mobile device management capability&#44; and may only be offered by commercial enterprises&#44; such as business organizations&#44; educational institutions&#44; or government agencies&#44; and&#44; in limited cases&#44; companies utilizing MDM for parental controls. MDM apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.3(i).&#60;/strong&#62; Apps may use a user&#8217;s health or fitness data to provide a benefit directly to that user&#44; such as a reduced insurance premium&#44; if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(viii) (New).&#60;/strong&#62; Apps that compile information from any source that is not directly from the user or without the user&#8217;s explicit consent&#44; even public databases&#44; are not permitted on the App Store.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(ii).&#60;/strong&#62; Apps must get consent for data collection&#44; even if the data is considered anonymous at the time of or immediately following collection.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 1.1.3.&#60;/strong&#62; Apps may not facilitate purchase of ammunition.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.2.7.&#60;/strong&#62; Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.&#60;/li&#62;&#60;/ul&#62;&#60;p&#62;Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.&#60;/p&#62;&#60;p&#62;Sign in with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.&#60;/p&#62;&#60;p&#62;&#123;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/&#34;&#62;Read App Store Review Guidelines&#60;/a&#62;&#125;&#60;/p&#62;</description>
@@ -689,11 +661,39 @@
             <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
         </item>
         <item>
-            <title>Machine Learning</title>
-            <link>https://developer.apple.com/news/?id=06032019e</link>
-            <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>See What&#8217;s New on Apple Platforms</title>
+            <link>https://developer.apple.com/news/?id=06032019a</link>
+            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
+            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
+        </item>
+        <item>
+            <title>Bring Your iPad App to Mac</title>
+            <link>https://developer.apple.com/news/?id=06032019c</link>
+            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
+        </item>
+        <item>
+            <title>Siri</title>
+            <link>https://developer.apple.com/news/?id=06032019g</link>
+            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
+        </item>
+        <item>
+            <title>Feedback Assistant</title>
+            <link>https://developer.apple.com/news/?id=06032019h</link>
+            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
+        </item>
+        <item>
+            <title>Notarization Requirement for Mac Software</title>
+            <link>https://developer.apple.com/news/?id=06032019i</link>
+            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
         </item>
         <item>
             <title>Sign in with Apple</title>
@@ -703,11 +703,18 @@
             <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
         </item>
         <item>
-            <title>Notarization Requirement for Mac Software</title>
-            <link>https://developer.apple.com/news/?id=06032019i</link>
-            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>Machine Learning</title>
+            <link>https://developer.apple.com/news/?id=06032019e</link>
+            <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
+            <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
+        </item>
+        <item>
+            <title>SwiftUI</title>
+            <link>https://developer.apple.com/news/?id=06032019b</link>
+            <description>&#60;p&#62;SwiftUI&#60;/p&#62;&#60;p&#62;SwiftUI is an innovative new way to build user interfaces across all Apple platforms&#44; so you can create better apps with less code. With a declarative Swift syntax that&#8217;s easy to read and natural to write&#44; SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type&#44; Dark Mode&#44; localization&#44; and accessibility means your first line of SwiftUI code is already the most powerful UI code you&#8217;ve ever written.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/xcode/swiftui/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
         </item>
     </channel>
 </rss>
