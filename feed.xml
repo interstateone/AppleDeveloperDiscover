@@ -5,7 +5,7 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 06 May 2020 00:06:45 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2020 03:03:16 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,13 @@
             <description>&#60;p&#62;Billing Grace Period Data Now Available in &#123;App Store Connect&#125;&#60;/p&#62;&#60;p&#62;The Sales and Trends section of App Store Connect now provides details about the number of subscribers in Billing Grace Period &#8212; a feature that lets subscribers with unsuccessful auto-renewals continue accessing your app&#8217;s paid content while Apple attempts to collect payment&#44; allowing them time to fix the issue. New subscription events in Sales and Trends indicate the number of renewals and cancelations during Billing Grace Period&#44; and the Subscription Report includes a new column with the total number of subscriptions in Billing Grace Period. &#60;a href&#61;&#34;https://help.apple.com/app-store-connect/#/dev7492eeb55&#34;&#62;Get details on viewing subscriptions data&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Tue, 05 May 2020 02:00:45 +0000</pubDate>
             <guid isPermaLink="false">CC3699D2-37CD-4F4D-B13F-DB7E9A910E85</guid>
+        </item>
+        <item>
+            <title>The qualities of great design</title>
+            <link>https://developer.apple.com/news/?id=gnaq70xq</link>
+            <description>&#60;p&#62;The qualities of great design&#60;/p&#62;&#60;p&#62;Great design isn&#39;t magic&#44; it is crafted with care by real people. Explore the characteristics of great design through the voices of designers from Apple and our developer community. Learn how they take inspiration from everyday life&#44; conceive and refine ideas&#44; and push themselves to design apps and games that can stand the test of time.&#60;/p&#62;</description>
+            <pubDate>Mon, 04 May 2020 16:55:12 +0000</pubDate>
+            <guid isPermaLink="false">156BB445-917A-4A9D-902A-97AC5C2E4211</guid>
         </item>
         <item>
             <title>Meet the developer: Shelley Taylor</title>
@@ -94,6 +101,13 @@
             <guid isPermaLink="false">AE16C13D-8A01-4313-9BD8-41A6C91673A0</guid>
         </item>
         <item>
+            <title>Get to know Reality Composer</title>
+            <link>https://developer.apple.com/news/?id=w7yg7wl0</link>
+            <description>&#60;p&#62;Get to know Reality Composer&#60;/p&#62;&#60;p&#62;Ready to start exploring augmented reality? The Reality Composer app can help you quickly create delightful AR experiences for you app.&#60;/p&#62;</description>
+            <pubDate>Tue, 21 Apr 2020 07:05:00 +0000</pubDate>
+            <guid isPermaLink="false">13DF4380-4999-4A6E-A04D-7A111BC2F09C</guid>
+        </item>
+        <item>
             <title>Updated Guidelines for HealthKit</title>
             <link>https://developer.apple.com/news/?id=04202020a</link>
             <description>&#60;p&#62;Updated Guidelines for HealthKit&#60;/p&#62;&#60;p&#62;HealthKit allows your app to provide valuable health-related insights to users by working with the Apple Health app. The updated HealthKit Human Interface Guidelines include guidance on using the Apple Health icon in your app&#44; enhanced editorial guidance on using Apple Health-related terms&#44; and clarified privacy and data-usage guidelines. &#60;a href&#61;&#34;https://developer.apple.com/design/human-interface-guidelines/healthkit/overview/&#34;&#62;View Human Interface Guidelines&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;strong&#62;Works with Apple Health badge now available.&#60;/strong&#62; You can also now use the Works with Apple Health badge to promote your HealthKit-enabled apps. Download the badge and review the guidelines for using the badge on marketing communications. &#60;a href&#61;&#34;https://developer.apple.com/health-fitness/works-with-apple-health/&#34;&#62;Learn about the badge&#60;/a&#62;&#60;/p&#62;</description>
@@ -101,11 +115,25 @@
             <guid isPermaLink="false">CA8BE10B-5527-405D-82C1-5E317A447588</guid>
         </item>
         <item>
+            <title>I have this idea for an app...</title>
+            <link>https://developer.apple.com/news/?id=imm93r2y</link>
+            <description>&#60;p&#62;I have this idea for an app...&#60;/p&#62;&#60;p&#62;Do you have an idea for an app that you think would be useful to others&#44; but you don&#39;t know how to make it a reality? You&#39;re not alone&#33; Lots of people are interested in app development&#44; but they aren&#39;t sure how to turn their idea to code and then into a finished app. From first steps to Xcode&#44; we&#39;ll explain the building blocks you need to turn your iOS app idea into reality.&#60;/p&#62;</description>
+            <pubDate>Mon, 20 Apr 2020 17:00:20 +0000</pubDate>
+            <guid isPermaLink="false">3B0CB8C6-BFC3-4E49-A5F0-FDA5E334E921</guid>
+        </item>
+        <item>
             <title>Meet the developer: Brian Mueller</title>
             <link>https://developer.apple.com/news/?id=8xd0lp1u</link>
             <description>&#60;p&#62;Meet the developer: Brian Mueller&#60;/p&#62;&#60;p&#62;Brian Mueller is something of a Renaissance man. He single-handedly codes&#44; designs&#44; illustrates&#44; and writes all of the dialogue for his wisecracking Carrot apps&#44; which fall into categories that typically don&#8217;t have a lot of personality: to-do lists&#44; alarm clocks&#44; calorie counters.&#60;/p&#62;&#60;p&#62;To call his style droll would be an understatement. The exercise app &#60;em&#62;Carrot Fit&#60;/em&#62;&#44; for instance&#44; implores you to &#8220;jump flabby human&#44; jump for freedom&#33;&#8221; in a deadpan robotic voice.&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;&#60;em&#62;For more about Brian Mueller and his approach&#44; check out &#60;a href&#61;&#34;https://developer.apple.com/app-store/grailr/?cid&#61;developer80&#34;&#62;this video interview&#60;/a&#62; where he details Carrot Weather&#8217;s evolution on Apple Watch.&#60;/em&#62;&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;&#60;em&#62;Carrot To-Do&#60;/em&#62; is equally sardonic &#8212; &#8220;It&#8217;s been 18 hours since you did anything useful&#8221; &#8212; while &#60;em&#62;Carrot Weather&#60;/em&#62; takes liberties with its forecasts. &#8220;It&#8217;s a beautiful day&#33; Ha ha&#44; just kidding. It&#8217;s raining.&#8221;&#60;/p&#62;&#60;p&#62;A smack-talking to-do list app might not seem like the big idea that would let you quit your day job. In fact&#44; Carrot&#8217;s success caught even Mueller off guard. &#8220;For some reason&#44; people have responded to this. I still can&#8217;t believe sometimes any of this caught on&#44;&#8221; he says.&#60;/p&#62;&#60;p&#62;Working out of a spare room in his Philadelphia-area home&#44; the former aspiring screenwriter has penned thousands of lines of dialogue for his apps&#44; which he constantly updates to nod to current events. (A recent one-liner from &#60;em&#62;Carrot Weather&#60;/em&#62;: &#8220;Don&#8217;t tell anyone&#44; but I regularly send bad weather to areas with high concentrations of stay-at-home order protesters.&#8221;)&#60;/p&#62;&#60;p&#62;As for the inspiration for &#60;em&#62;Carrot&#60;/em&#62;&#44; Mueller credits those closest to him: his mom&#44; sister&#44; and wife &#8212; all of whom tease one another relentlessly.&#60;/p&#62;&#60;p&#62;&#8220;A lot of the dialogue for &#60;em&#62;Carrot&#60;/em&#62; is drawn out of stuff that we&#8217;ve actually said to each other&#44;&#8221; he says. &#8220;Every time my wife says something funny&#44; I write it down for the apps. Sometimes she gets annoyed by that&#44; but she&#8217;s a lot funnier than I am.&#8221;&#60;/p&#62;&#60;p&#62;When Mueller dreamed up the idea to create a character-driven app&#44; he had zero coding experience. &#8220;I&#8217;m an English major with a creative-writing minor. I love to write and create characters and tell stories&#44; but I had no real idea of what I would do with my life.&#8221;&#60;/p&#62;&#60;p&#62;Mueller&#8217;s first instinct was to hire a developer to realize his vision. &#8220;I didn&#8217;t want to sound like a jerk when talking to a programmer&#44; so I bought a book on iOS programming for beginners&#44; just to know what terms to use&#44;&#8221; he says. As he read &#60;em&#62;iOS Programming: The Big Nerd Ranch Guide&#60;/em&#62;&#44; Mueller was surprised by how easy it is to make an app. By January 2013&#44; &#60;em&#62;Carrot To-Do&#60;/em&#62; had launched on the App Store. It took him about a month to create.&#60;/p&#62;&#60;blockquote&#62;I love to write and create characters and tell stories&#44; but I had no real idea of what I would do with my life.&#60;/blockquote&#62;&#60;p&#62;&#38;mdash; Brian Mueller&#44; Carrot creator&#60;/p&#62;&#60;p&#62;Initially&#44; sales were tepid. It took a couple of years&#44; and a few more apps&#44; before &#60;em&#62;Carrot&#60;/em&#62; found a broad-enough audience for Mueller to quit his day job and become a full-time developer.&#60;/p&#62;&#60;p&#62;The &#60;em&#62;Carrot&#60;/em&#62; universe continues to expand. Mueller has built seven iOS apps and an iOS sticker pack&#44; as well as Apple Watch&#44; Apple TV&#44; and Mac versions of &#60;em&#62;Carrot Weather&#60;/em&#62;. With the arrival of AR (augmented reality) technologies on iOS&#44; Mueller taught himself how to add an AR component to &#60;em&#62;Carrot Weather&#60;/em&#62;. Now you can see the surly character Carrot as a spherical &#8220;ocular sensor&#8221; hovering in your surroundings. She turns red if you annoy her.&#60;/p&#62;&#60;p&#62;Although being a one-man app shop isn&#8217;t easy&#44; Mueller enjoys wearing all the hats. &#8220;When I hit a road block with coding&#44; I can take a break and switch to writing or doing some design work&#44;&#8221; he says. &#8220;I&#8217;m not stuck doing the same thing over and over.&#60;/p&#62;&#60;p&#62;&#8220;It&#39;s a weird way to work&#44; but I&#39;m a bit of a perfectionist and it allows me to make exactly what I want.&#8221;&#60;/p&#62;&#60;p&#62;&#60;em&#62;Originally published on the App Store.&#60;/em&#62;&#60;/p&#62;</description>
             <pubDate>Fri, 17 Apr 2020 17:00:01 +0000</pubDate>
             <guid isPermaLink="false">9FC8A3D4-733E-47DB-87C3-6253D4DF3517</guid>
+        </item>
+        <item>
+            <title>Meet PencilKit</title>
+            <link>https://developer.apple.com/news/?id=s34c6lqv</link>
+            <description>&#60;p&#62;Meet PencilKit Meet PencilKit&#44; Apple&#39;s feature-rich drawing and annotation framework. With just a few lines of code&#44; you can add a full drawing experience to your app &#8212; with access to a canvas&#44; responsive inks&#44; rich tool palette and drawing model. Learn about the new screenshot editor and how you can adopt just a few small APIs to enable your full content to be captured beyond the size of the screen&#44; with or without your app&#39;s user interface.&#60;/p&#62;</description>
+            <pubDate>Wed, 15 Apr 2020 17:00:40 +0000</pubDate>
+            <guid isPermaLink="false">8AAE39AC-EE40-40DB-9883-27581710164E</guid>
         </item>
         <item>
             <title>Upcoming price and tax changes in Barbados&#44; Malaysia&#44; Moldova&#44; and Uzbekistan</title>
@@ -120,6 +148,13 @@
             <description>&#60;p&#62;Design a great in-app purchase experience for Apple Watch&#60;/p&#62;&#60;p&#62;Your Apple Watch apps can help people achieve their personal fitness goals&#44; monitor their health&#44; get actionable information straight to their wrist&#44; and so much more. And with watchOS 6.2&#44; you can further expand your customers&#8217; experiences by offering in-app purchases and subscription flows directly on Apple Watch.&#60;/p&#62;&#60;p&#62;These interactions use the same StoreKit APIs available for iOS app development&#44; allowing you to quickly implement them in your watchOS apps&#44; and they can be added to both independent watchOS apps (which can function fully independently of an iOS app) and dependent watchOS apps (which need an iOS companion app to function).&#60;/p&#62;&#60;p&#62;Let&#8217;s take a look at why and when you might want to offer purchases within your app&#44; as well as some best practices around implementing a great flow for your customers. When to offer in-app purchases and subscriptions In-app purchases and subscriptions can make your Apple Watch apps even better by offering both additional content and purchasing flexibility.&#60;/p&#62;&#60;p&#62;If you have an independent app&#44; people can already download it directly through the Watch App Store&#44; and in-app purchases and subscriptions build upon that independence. Apps dependent on the companion iOS app can benefit&#44; too&#44; as these give people more power to purchase additional content without having to reach for their iPhone.&#60;/p&#62;&#60;p&#62;When deciding whether to bring an in-app purchase or subscription flow to your app&#44; consider what you&#8217;re offering. Does this purchase or subscription unlock anything specific to Apple Watch? Fitness apps&#44; for instance&#44; might supply additional workouts&#44; or let your customers subscribe to a monthly program.&#60;/p&#62;&#60;p&#62;Once you&#8217;ve decided to add an in-app purchase or subscription&#44; give some thought to when your app should display it. These prompts are most helpful when they provide a next step for your customers to unlock further functionality within your app. Best practices for a great in-app purchase and subscription experience Effective purchase flows on Apple Watch are concise and clear. Your messaging must be easily scannable&#44; and your options must be easy to compare with each other on a small screen. Keeping things short and sweet will help ensure that people can evaluate the choices&#44; make a decision quickly&#44; and carry on with the task at hand.&#60;/p&#62;&#60;p&#62;&#60;strong&#62;Make your choices clear&#60;/strong&#62; When offering one-time purchases and subscriptions alongside each other&#44; ensure that every option is defined clearly. Adding written overviews can help people differentiate between the two and make an informed choice.&#60;/p&#62;&#60;p&#62;We recommend including the following information in your overview: - What this purchase enables on your Apple Watch app - Whether it&#8217;s a one-time purchase or recurring subscription&#60;/p&#62;&#60;p&#62;&#60;strong&#62;Restore the past&#60;/strong&#62; Whenever you offer subscription or in-app purchase content&#44; provide a way for people to restore their subscriptions or purchases. The same goes for Apple Watch: Make sure your app presents a button below the option to purchase that can check for previously purchased content and restore it.&#60;/p&#62;&#60;p&#62;&#60;strong&#62;Don&#8217;t forget the fine print&#60;/strong&#62; While reading your subscription&#8217;s terms and conditions on Apple Watch may not sound like the most fun way for someone to spend their time&#44; it&#8217;s important that your customers know exactly what they&#8217;re getting when they purchase something within your app. Every time you include a purchase screen on Apple Watch&#44; you must include an option to read terms and conditions.&#60;/p&#62;&#60;p&#62;&#60;strong&#62;Review the App Store guidelines&#60;/strong&#62; There are specific requirements you need to include in your Watch app before you make in-app purchases and subscriptions available to your customers; check the &#60;a href&#61;&#34;https://developer.apple.com/app-store/resources/&#34;&#62;App Store&#8217;s Guidelines and Resources&#60;/a&#62; for more information.&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;Resources &#60;a href&#61;&#34;https://developer.apple.com/documentation/watchkit/creating_independent_watchos_apps&#34;&#62;Watch &#8220;Creating Independent watchOS apps&#8221;&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/subscriptions/#subscription-offers&#34;&#62;Learn more about auto-renewable subscriptions&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/in-app-purchase/&#34;&#62;Learn more about in-app purchases&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Tue, 14 Apr 2020 17:00:41 +0000</pubDate>
             <guid isPermaLink="false">EB1EB39C-5D22-402B-A515-B872499C5CF3</guid>
+        </item>
+        <item>
+            <title>Designing across platforms</title>
+            <link>https://developer.apple.com/news/?id=og0kc71p</link>
+            <description>&#60;p&#62;Designing across platforms&#60;/p&#62;&#60;p&#62;Learn techniques for determining which Apple platforms are right for your app and how to create a great user experience by designing for the unique capabilities and strengths of each platform.&#60;/p&#62;</description>
+            <pubDate>Mon, 13 Apr 2020 17:00:10 +0000</pubDate>
+            <guid isPermaLink="false">C23237E5-1A12-444F-A91B-78CE3B879CE1</guid>
         </item>
         <item>
             <title>Meet the developer: Catana Chetwynd</title>
@@ -143,6 +178,13 @@
             <guid isPermaLink="false">2A04FD17-F862-4885-A8E0-4C9BBBDE2B1F</guid>
         </item>
         <item>
+            <title>Creating independent watch apps</title>
+            <link>https://developer.apple.com/news/?id=ggicv2ax</link>
+            <description>&#60;p&#62;Creating independent watch apps&#60;/p&#62;&#60;p&#62;watchOS 6 enables a whole new level of watchOS experiences by allowing fully independent apps and apps built just for Apple Watch&#44; and by bringing the App Store to Apple Watch. Discover how to leverage the power of many iOS frameworks and technologies&#44; now on watchOS&#44; to create fully independent experiences on Apple Watch.&#60;/p&#62;</description>
+            <pubDate>Mon, 06 Apr 2020 17:00:30 +0000</pubDate>
+            <guid isPermaLink="false">5A6464EE-D5F6-4687-920E-C03512269326</guid>
+        </item>
+        <item>
             <title>How to scan and analyze surroundings with the LiDAR Scanner on iPad Pro</title>
             <link>https://developer.apple.com/news/?id=qwhaoe0x</link>
             <description>&#60;p&#62;How to scan and analyze surroundings with the LiDAR Scanner on iPad Pro&#60;/p&#62;&#60;p&#62;ARKit 3.5 can take advantage of the LiDAR Scanner on the iPad Pro 11-inch (2nd generation) and iPad Pro 12.9-inch (4th generation) to help your apps better understand physical environments.&#60;/p&#62;&#60;p&#62;Learn how your apps can use information from the cameras and LiDAR Scanner to analyze the real world&#44; get depth information&#44; and form 3D meshes that:&#60;/p&#62;&#60;ul&#62;&#60;li&#62;Accurately locate points on physical surfaces&#60;/li&#62;&#60;li&#62;Recognize and classify physical objects&#60;/li&#62;&#60;li&#62;Occlude virtual objects with real-world objects&#60;/li&#62;&#60;li&#62;Enable realistic interactions between virtual and physical objects&#60;/li&#62;&#60;/ul&#62;&#60;p&#62;For example&#44; An AR game might use mesh generated by Scene Geometry&#44; which uses information from the LiDAR Scanner&#44; to let someone realistically bounce a virtual ball off a physical wall inside their room.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/documentation/arkit/world_tracking/visualizing_and_interacting_with_a_reconstructed_scene&#34;&#62;Learn more and explore a sample app in the Developer Library&#60;/a&#62;&#60;/p&#62;</description>
@@ -155,6 +197,20 @@
             <description>&#60;p&#62;New Financial Report Coming to App Store Connect&#60;/p&#62;&#60;p&#62;Starting April 2020&#44; you can get more details on the final proceeds of your apps and in-app purchases&#44; including the transaction and settlement dates for purchases&#44; as well as the state or province for transactions in the United States and Canada. Simply download the &#8220;All Countries or Regions (Detailed)&#8221; report in App Store Connect. &#60;a href&#61;&#34;https://help.apple.com/app-store-connect/#/dev716cf3a0d&#34;&#62;View App Store Connect Help&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Wed, 01 Apr 2020 18:15:34 +0000</pubDate>
             <guid isPermaLink="false">94389246-2193-4A3A-8A6D-D39B669F99CB</guid>
+        </item>
+        <item>
+            <title>Advanced scene understanding in AR</title>
+            <link>https://developer.apple.com/news/?id=5hohrk48</link>
+            <description>&#60;p&#62;Advanced scene understanding in AR&#60;/p&#62;&#60;p&#62;ARKit 3.5 and RealityKit provide new capabilities that take full advantage of the LiDAR Scanner on the new iPad Pro. Check out ARKit 3.5 and learn about Scene Geometry&#44; enhanced raycasting&#44; instantaneous virtual object placement&#44; and more. See how RealityKit takes advantage of these features to enable real-world physics&#44; object occlusion&#44; and lighting effects that interact with real-world objects.&#60;/p&#62;</description>
+            <pubDate>Tue, 31 Mar 2020 17:00:48 +0000</pubDate>
+            <guid isPermaLink="false">0C5E5498-E487-4665-86B8-604850876E6F</guid>
+        </item>
+        <item>
+            <title>Prototyping for AR</title>
+            <link>https://developer.apple.com/news/?id=n2b4o4zd</link>
+            <description>&#60;p&#62;Prototyping for AR&#60;/p&#62;&#60;p&#62;Designing for AR can be intimidating and discovering design flaws late in the process can be costly. See how low-tech traditional prototyping techniques can help you validate and refine your AR app and game design ideas.&#60;/p&#62;</description>
+            <pubDate>Mon, 30 Mar 2020 17:40:33 +0000</pubDate>
+            <guid isPermaLink="false">E735C515-E9B4-472B-B6D5-760F8057C76F</guid>
         </item>
         <item>
             <title>Meet the Developer: Rich Siegel</title>
@@ -213,6 +269,27 @@
             <guid isPermaLink="false">E39B8802-5D57-40B2-89B4-A0E7422DF1EB</guid>
         </item>
         <item>
+            <title>Metal enhancements for A13 Bionic</title>
+            <link>https://developer.apple.com/news/?id=e12lcndl</link>
+            <description>&#60;p&#62;Metal enhancements for A13 Bionic Metal brings powerful API features and GPU-driven capabilities to A13 Bionic including sparse textures&#44; vertex amplification&#44; Tier 2 argument buffers&#44; ASTC HDR&#44; and more. Understand the architectural improvements of the Apple-designed A13 Bionic and learn how the latest Metal enhancements advance the state of the art for modern apps and games.&#60;/p&#62;</description>
+            <pubDate>Thu, 19 Mar 2020 17:00:43 +0000</pubDate>
+            <guid isPermaLink="false">29D122E7-117F-427B-9E4F-29F6E7ECC24A</guid>
+        </item>
+        <item>
+            <title>Supporting new game controllers</title>
+            <link>https://developer.apple.com/news/?id=sazbxb47</link>
+            <description>&#60;p&#62;Supporting new game controllers With iOS 13&#44; macOS Catalina&#44; and tvOS 13&#44; the Game Controller framework adds support for several well-known console game controllers. Get briefed about the newly-added controllers and understand how their inputs are delivered. Learn recommended best practices for handling optional buttons&#44; and understand the right approach for support on macOS.&#60;/p&#62;</description>
+            <pubDate>Tue, 17 Mar 2020 17:00:27 +0000</pubDate>
+            <guid isPermaLink="false">A9389BF9-8654-4E2E-93CD-0CBE95A99BDC</guid>
+        </item>
+        <item>
+            <title>Marketing a game at launch</title>
+            <link>https://developer.apple.com/news/?id=fqt4uk28</link>
+            <description>&#60;p&#62;Marketing a game at launch Indie developer WRKSHP attracted hundreds of thousands of users with limited marketing resources by winning over its most passionate players.&#60;/p&#62;</description>
+            <pubDate>Mon, 16 Mar 2020 17:00:49 +0000</pubDate>
+            <guid isPermaLink="false">FAAC76BC-7BF4-4E8F-BFC9-96FFA633B1C9</guid>
+        </item>
+        <item>
             <title>Ensuring the Credibility of Health &#38; Safety Information</title>
             <link>https://developer.apple.com/news/?id=03142020a</link>
             <description>&#60;p&#62;Ensuring the Credibility of Health &#38;amp; Safety Information The App Store should always be a safe and trusted place for users to download apps. Now more than ever that commitment takes on special significance as the world fights the COVID-19 pandemic. Communities around the world are depending on apps to be credible news sources &#8212; helping users understand the latest health innovations&#44; find out where they can get help if needed or provide assistance to their neighbors.&#60;/p&#62;&#60;p&#62;To help fulfill these expectations&#44; we&#39;re evaluating apps critically to ensure data sources are reputable and that developers presenting these apps are from recognized entities such as government organizations&#44; health-focused NGOs&#44; companies deeply credentialed in health issues&#44; and medical or educational institutions. Only developers from one of these recognized entities should submit an app related to COVID-19. Entertainment or game apps with COVID-19 as their theme will not be allowed.&#60;/p&#62;&#60;p&#62;We understand the need to get these apps into the hands of customers as soon as possible. We encourage developers that meet this criteria to select &#8220;Time-Sensitive Event&#8221; on the expedite request form to ensure prioritized review since App Store review may take longer.&#60;/p&#62;&#60;p&#62;If you are developing an app on behalf of a client&#44; please advise your client to add you to the development team of their Apple Developer account. If your client does not yet have an Apple Developer account&#44; they can enroll in the &#60;a href&#61;&#34;https://developer.apple.com/programs/&#34;&#62;Apple Developer Program&#60;/a&#62;. Nonprofit organizations&#44; accredited educational institutions&#44; and government entities that plan to distribute only free apps on the App Store can request to have their annual membership fee waived&#44; if based in an eligible country. Resources &#60;a href&#61;&#34;https://developer.apple.com/support/membership-fee-waiver/&#34;&#62;Learn about membership fee waivers&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/&#34;&#62;Read the App Store Review Guidelines&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/contact/app-store/?topic&#61;expedite&#34;&#62;Request an expedited review&#60;/a&#62;&#60;/p&#62;</description>
@@ -225,6 +302,27 @@
             <description>&#60;p&#62;WWDC20. Coming this summer.&#60;/p&#62;&#60;p&#62;This June&#44; WWDC20 brings a completely new online experience to millions of talented and creative developers around the world. Join us for a fully packed program &#8212; including Keynote and sessions &#8212; to gain early access to the future of Apple platforms and engage with Apple engineers. Dive into an exciting learning experience and discover how to create your most innovative apps yet using the latest Apple technologies.&#60;/p&#62;&#60;p&#62;Stay tuned for details in the app&#44; on the &#60;a href&#61;&#34;https://developer.apple.com/wwdc20/&#34;&#62;WWDC20 website&#60;/a&#62;&#44; and by email.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://www.apple.com/newsroom/2020/03/apples-wwdc-2020-kicks-off-in-june-with-an-all-new-online-format/&#34;&#62;Learn more on Apple Newsroom&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Fri, 13 Mar 2020 16:00:18 +0000</pubDate>
             <guid isPermaLink="false">54F2BE76-302B-466E-84B0-024707992B6F</guid>
+        </item>
+        <item>
+            <title>Cryptography and your apps</title>
+            <link>https://developer.apple.com/news/?id=hjua11qt</link>
+            <description>&#60;p&#62;Cryptography and your apps System frameworks encrypt both data at rest and data in transit in a transparent way for you. CryptoKit is a new Swift framework that makes it easier and safer than ever to perform cryptographic operations&#44; whether you simply need to compute a hash or are implementing a more advanced authentication protocol.&#60;/p&#62;</description>
+            <pubDate>Thu, 12 Mar 2020 17:00:57 +0000</pubDate>
+            <guid isPermaLink="false">9397647B-9721-4E33-BA27-38A00458E5EC</guid>
+        </item>
+        <item>
+            <title> Creating great localized experiences with Xcode 11</title>
+            <link>https://developer.apple.com/news/?id=9mraxfaa</link>
+            <description>&#60;p&#62;Creating great localized experiences with Xcode 11 Learn how your app can support per-app language settings in iOS 13. Get the details on localizing assets with asset catalogs and simplifying your localization workflow with Xcode 11. Understand how to generate screenshots in multiple languages for localization and testing.&#60;/p&#62;</description>
+            <pubDate>Wed, 11 Mar 2020 17:00:25 +0000</pubDate>
+            <guid isPermaLink="false">D8F56DF5-9217-46DA-B3DB-6F4CFEC1363E</guid>
+        </item>
+        <item>
+            <title>Building a business in the Kids category</title>
+            <link>https://developer.apple.com/news/?id=q24smgzi</link>
+            <description>&#60;p&#62;Building a business in the Kids category Originator shares how it built a sustainable business in the Kids category with the Endless series of apps.&#60;/p&#62;</description>
+            <pubDate>Tue, 10 Mar 2020 17:00:13 +0000</pubDate>
+            <guid isPermaLink="false">8FF25906-7425-428A-84A5-EE5888985D07</guid>
         </item>
         <item>
             <title>Choosing a Business Model </title>
@@ -269,6 +367,62 @@
             <guid isPermaLink="false">E3DFA9EA-F197-46FB-A415-22A76188A506</guid>
         </item>
         <item>
+            <title>Advances in networking</title>
+            <link>https://developer.apple.com/news/?id=46ubxr1f</link>
+            <description>&#60;p&#62;Advances in networking Keep up with new and evolving networking protocols and standards by leveraging the modern networking frameworks on all Apple platforms and following best practices for efficiency and performance.&#60;/p&#62;</description>
+            <pubDate>Mon, 02 Mar 2020 18:00:26 +0000</pubDate>
+            <guid isPermaLink="false">F76F21AC-1C51-4203-9CC7-3A60F7E5BE04</guid>
+        </item>
+        <item>
+            <title>Designing great shortcuts</title>
+            <link>https://developer.apple.com/news/?id=fwv23ql3</link>
+            <description>&#60;p&#62;Designing great shortcuts Join us on a tour of design concepts and implementation tips to help make your shortcuts indispensable to your customers.&#60;/p&#62;</description>
+            <pubDate>Mon, 24 Feb 2020 17:00:46 +0000</pubDate>
+            <guid isPermaLink="false">050149F8-608E-4AAE-ADEE-4AF5A5B9CBCC</guid>
+        </item>
+        <item>
+            <title>Advances in UI Data Sources</title>
+            <link>https://developer.apple.com/news/?id=6vn09xgt</link>
+            <description>&#60;p&#62;Advances in UI Data Sources Use UI Data Sources to simplify updating your table view and collection view items using automatic diffing. Learn about this simplified data model that uses on identifiers and snapshots so that you can focus on your app&#39;s dynamic data and content instead of the minutia of UI data synchronization.&#60;/p&#62;</description>
+            <pubDate>Thu, 20 Feb 2020 18:00:54 +0000</pubDate>
+            <guid isPermaLink="false">2ABAFE7E-79D9-4753-8683-5FDEBF3FA1CF</guid>
+        </item>
+        <item>
+            <title>Introducing Photo Segmentation Mattes</title>
+            <link>https://developer.apple.com/news/?id=4jpbltew</link>
+            <description>&#60;p&#62;Introducing Photo Segmentation Mattes Learn about the new semantic segmentation mattes available to you from both AVCapture and Core Image to isolate a person&#39;s hair&#44; skin&#44; and teeth. Using any of these individual mattes or combining all of them&#44; your app can now offer a tremendous amount of photo editing control.&#60;/p&#62;</description>
+            <pubDate>Wed, 19 Feb 2020 18:00:14 +0000</pubDate>
+            <guid isPermaLink="false">DBBCB1E7-3CED-46E5-9157-5D5A104667F2</guid>
+        </item>
+        <item>
+            <title>Introducing RealityKit and Reality Composer</title>
+            <link>https://developer.apple.com/news/?id=6sr2uzso</link>
+            <description>&#60;p&#62;Introducing RealityKit and Reality Composer Understand the building blocks of developing RealityKit based apps and games&#44; and learn about prototyping and producing content for AR experiences with Reality Composer.&#60;/p&#62;</description>
+            <pubDate>Tue, 18 Feb 2020 17:49:40 +0000</pubDate>
+            <guid isPermaLink="false">3514D567-416B-4B6A-ADED-174B30110C65</guid>
+        </item>
+        <item>
+            <title>Training Sound Classification Models in Create ML</title>
+            <link>https://developer.apple.com/news/?id=rd4j5yyl</link>
+            <description>&#60;p&#62;Training Sound Classification Models in Create ML Learn how to quickly and easily create Core ML models capable of classifying the sounds heard in audio files and live audio streams.&#60;/p&#62;</description>
+            <pubDate>Mon, 17 Feb 2020 15:00:47 +0000</pubDate>
+            <guid isPermaLink="false">D85589EA-C326-4141-B0C2-4F94FAFE8F93</guid>
+        </item>
+        <item>
+            <title>Releasing App Updates</title>
+            <link>https://developer.apple.com/news/?id=92hitkyb</link>
+            <description>&#60;p&#62;Releasing App Updates Smule grew a thriving community of loyal users through regular app updates and feature innovations.&#60;/p&#62;</description>
+            <pubDate>Thu, 13 Feb 2020 15:00:20 +0000</pubDate>
+            <guid isPermaLink="false">191A0FB7-4937-40E8-A926-72F240C7169F</guid>
+        </item>
+        <item>
+            <title>Visual Design and Accessibility</title>
+            <link>https://developer.apple.com/news/?id=499dxhbv</link>
+            <description>&#60;p&#62;Visual Design and Accessibility Learn about the importance of supporting Large Text. Hear about Differentiate Without Color&#44; a new API on iOS which can enable people with vision disorders such as color-blindness to easily use your app. Learn how to use it and how it can bring inclusivity to your app. Find out how to enable new Reduce Motion API to stop auto-play in your app for people who may be sensitive to motion.&#60;/p&#62;</description>
+            <pubDate>Thu, 13 Feb 2020 04:20:21 +0000</pubDate>
+            <guid isPermaLink="false">020B66C6-49B3-400D-998E-A8772EDFD386</guid>
+        </item>
+        <item>
             <title>Swift Playgrounds Now Available on Mac</title>
             <link>https://developer.apple.com/news/?id=02122020a</link>
             <description>&#60;p&#62;Swift Playgrounds Now Available on Mac&#60;/p&#62;&#60;p&#62;Now you can learn and explore coding using Swift Playgrounds on Mac. Take advantage of the same great experimenting environment from iPad&#44; updated with a unique Mac experience that includes a new sidebar&#44; Touch Bar support&#44; and code suggestions that provide additional help. You can even use the same playground file on both platforms. Swift Playgrounds is an easy way to try out new code for your app&#44; then use that code for development in Xcode. &#60;a href&#61;&#34;https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt&#61;12&#34;&#62;View on the Mac App Store&#60;/a&#62;&#60;/p&#62;</description>
@@ -276,11 +430,25 @@
             <guid isPermaLink="false">B048A0E2-251D-45D7-BEB7-7E44F4AD774E</guid>
         </item>
         <item>
+            <title>Design for Everyone</title>
+            <link>https://developer.apple.com/news/?id=t4pkckjo</link>
+            <description>&#60;p&#62;Design for Everyone Learn how designing for accessibility and inclusiveness can do social good&#44; widen participation&#44; and enable everyone to benefit.&#60;/p&#62;</description>
+            <pubDate>Mon, 10 Feb 2020 18:00:42 +0000</pubDate>
+            <guid isPermaLink="false">30F21EB1-6BD7-4FDF-A990-D495AD97E073</guid>
+        </item>
+        <item>
             <title>Offer Custom Apps on Apple School Manager</title>
             <link>https://developer.apple.com/news/?id=02062020a</link>
             <description>&#60;p&#62;Offer Custom Apps on Apple School Manager&#60;/p&#62;&#60;p&#62;You can now meet the unique needs of educational institutions by privately offering apps you&#8217;ve customized just for them. Organizations that you identify in App Store Connect will see the app and be able to purchase it in volume on Apple School Manager&#44; a service that lets educational institutions buy content&#44; configure automatic device enrollment&#44; and create accounts for students and staff. Educational institutions can also use this feature to distribute proprietary apps for internal use. &#60;a href&#61;&#34;https://developer.apple.com/support/volume-purchase-and-custom-apps/&#34;&#62;Learn about distributing custom apps&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Thu, 06 Feb 2020 18:10:37 +0000</pubDate>
             <guid isPermaLink="false">8D80999D-4398-45BE-912B-EB2902666B61</guid>
+        </item>
+        <item>
+            <title>Inclusive App Design</title>
+            <link>https://developer.apple.com/news/?id=6yzg4mjm</link>
+            <description>&#60;p&#62;Inclusive App Design Learn easy-to-follow techniques for making your app culturally-relevant and accessible through use of type&#44; layout&#44; color and iconography.&#60;/p&#62;</description>
+            <pubDate>Thu, 06 Feb 2020 18:00:03 +0000</pubDate>
+            <guid isPermaLink="false">6883D5C4-1E83-4E08-A76B-834EAAA09CEE</guid>
         </item>
         <item>
             <title>Get Your watchOS Apps Ready for In&#8209;App Purchase</title>
@@ -297,11 +465,60 @@
             <guid isPermaLink="false">43EB72FD-F2FB-4FEC-8A3C-03495F7949A8</guid>
         </item>
         <item>
+            <title>Writing Great Accessibility Labels</title>
+            <link>https://developer.apple.com/news/?id=56ba98yn</link>
+            <description>&#60;p&#62;Writing Great Accessibility Labels Experience VoiceOver as demonstrated by an Apple Accessibility engineer as she navigates complex UI and demonstrates how descriptive labels are an easy way to ensure your app is for everyone.&#60;/p&#62;</description>
+            <pubDate>Tue, 04 Feb 2020 18:00:17 +0000</pubDate>
+            <guid isPermaLink="false">ECEE2C74-A641-4926-BD8E-189DB837B5C1</guid>
+        </item>
+        <item>
             <title>Membership Fee Waivers Now Available in More Countries</title>
             <link>https://developer.apple.com/news/?id=02032020a</link>
             <description>&#60;p&#62;Membership Fee Waivers Now Available in More Countries&#60;/p&#62;&#60;p&#62;We&#8217;re pleased to announce that Apple Developer Program membership is now available at no cost for eligible organizations based in Australia&#44; Canada&#44; France&#44; Germany&#44; Israel&#44; Italy&#44; Mexico&#44; and South Korea. Nonprofit organizations&#44; accredited educational institutions&#44; and government entities that plan to distribute only free apps on the App Store can request to have their annual membership fee waived. &#60;a href&#61;&#34;https://developer.apple.com/support/membership-fee-waiver/&#34;&#62;Learn more about membership fee waivers&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Feb 2020 18:05:21 +0000</pubDate>
             <guid isPermaLink="false">354E190B-8A9E-4F4A-9750-818C0619B557</guid>
+        </item>
+        <item>
+            <title>Building a Brand on Social Media</title>
+            <link>https://developer.apple.com/news/?id=i7i5qzjj</link>
+            <description>&#60;p&#62;Building a Brand on Social Media Seriously built a brand for its game&#44; Best Fiends&#44; with a creative approach to social media marketing.&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Feb 2020 18:00:52 +0000</pubDate>
+            <guid isPermaLink="false">EAD6467A-CDF8-480C-949A-57AE5E6616AB</guid>
+        </item>
+        <item>
+            <title>Localizing Evernote for Japan</title>
+            <link>https://developer.apple.com/news/?id=szb5cz7o</link>
+            <description>&#60;p&#62;Localizing Evernote for Japan Evernote began localizing its app for Japan by speaking with Japanese users to learn more about their preferences and culture.&#60;/p&#62;</description>
+            <pubDate>Thu, 30 Jan 2020 18:00:23 +0000</pubDate>
+            <guid isPermaLink="false">E6006D13-6C4E-467A-9B51-C327029820FA</guid>
+        </item>
+        <item>
+            <title>Designing for Privacy</title>
+            <link>https://developer.apple.com/news/?id=32cum8jh</link>
+            <description>&#60;p&#62;Designing for Privacy Privacy is a more important issue than ever for your users. Learn about new features and privacy engineering techniques that can help you earn customer trust&#44; create more personal experiences&#44; and improve user engagement.&#60;/p&#62;</description>
+            <pubDate>Wed, 29 Jan 2020 17:00:10 +0000</pubDate>
+            <guid isPermaLink="false">40FB4927-DA20-46A2-9411-4733939A529A</guid>
+        </item>
+        <item>
+            <title>Exploring Tinted Graphic Complications</title>
+            <link>https://developer.apple.com/news/?id=l2y94rhi</link>
+            <description>&#60;p&#62;Exploring Tinted Graphic Complications Many Watch faces allow for customizing the tint color of content&#44; allowing for even more personalization of Apple&#8217;s most personal device. Discover how you can use ClockKit data providers to offer full color and tint-ready options for each complication family type.&#60;/p&#62;</description>
+            <pubDate>Tue, 28 Jan 2020 17:00:44 +0000</pubDate>
+            <guid isPermaLink="false">AB481CF8-28F4-4CA5-96E9-581CAA4BAE99</guid>
+        </item>
+        <item>
+            <title>60 Second Prototyping</title>
+            <link>https://developer.apple.com/news/?id=ruw408w7</link>
+            <description>&#60;p&#62;60 Second Prototyping Learn how to quickly build interactive prototypes&#33; See how you can test new ideas and improve upon existing ones with minimal time investment and using tools you are already familiar with.&#60;/p&#62;</description>
+            <pubDate>Mon, 27 Jan 2020 18:00:20 +0000</pubDate>
+            <guid isPermaLink="false">DA6A7D35-F8A2-4410-A818-AD0A154486A1</guid>
+        </item>
+        <item>
+            <title>Subscription Offers Best Practices</title>
+            <link>https://developer.apple.com/news/?id=5vc18ecz</link>
+            <description>&#60;p&#62;Subscription Offers Best Practices Dive into implementation best practices for Subscription Offers using StoreKit and server-side logic.&#60;/p&#62;</description>
+            <pubDate>Sun, 26 Jan 2020 18:00:32 +0000</pubDate>
+            <guid isPermaLink="false">E9B27747-1F16-4F3B-B662-EB8172EBE0E5</guid>
         </item>
         <item>
             <title>Promoting Your Subscriptions with Offers</title>
@@ -346,6 +563,13 @@
             <guid isPermaLink="false">540FAD3F-7EC4-4CC9-B652-28177A5A9377</guid>
         </item>
         <item>
+            <title>Engineering Subscriptions</title>
+            <link>https://developer.apple.com/news/?id=462u4eeq</link>
+            <description>&#60;p&#62;Engineering Subscriptions Learn the best practices for architecting your subscription infrastructure using StoreKit and server-side logic. Find out about simple engineering techniques to keep your subscribers longer&#44; and how to utilize new tools and APIs to give your subscribers the best experience.&#60;/p&#62;</description>
+            <pubDate>Mon, 20 Jan 2020 16:00:25 +0000</pubDate>
+            <guid isPermaLink="false">ADFB2FEB-F81C-4B0D-BDB1-171F1D4F8EA8</guid>
+        </item>
+        <item>
             <title>Using Auto-Renewable Subscriptions</title>
             <link>https://developer.apple.com/news/?id=kipzd3t6</link>
             <description>&#60;p&#62;Using Auto-Renewable Subscriptions Auto-renewable subscriptions give users access to content&#44; services&#44; or premium features in your app on an ongoing basis. At the end of each subscription duration&#44; the subscription automatically renews until a user chooses to cancel it.&#60;/p&#62;&#60;p&#62;Great subscription apps justify the recurring payment by providing ongoing value to users and continually innovating the app experience. If you&#8217;re considering implementing the subscription model&#44; here&#8217;s what you need to know. &#60;a href&#61;&#34;https://developer.apple.com/app-store/subscriptions?cid&#61;developer80#offering-subscriptions&#34;&#62;Learn more&#60;/a&#62; Resources &#60;a href&#61;&#34;https://developer.apple.com/app-store/subscriptions?cid&#61;developer80#attracting-subscribers&#34;&#62;Learn more about attracting subscribers&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/subscriptions?cid&#61;developer80#measuring-subscriptions-with-sales-and-trends&#34;&#62;Learn more about measuring subscription performance&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/subscriptions?cid&#61;developer80#retaining-subscribers-using-receipt-information&#34;&#62;Learn more about using receipts to retain subscribers&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/subscriptions?cid&#61;developer80#subscription-offers&#34;&#62;Learn more about promoting your subscriptions with offers&#60;/a&#62;&#60;/p&#62;</description>
@@ -353,11 +577,25 @@
             <guid isPermaLink="false">A550826E-5BF0-4D66-A570-8953FADE2D79</guid>
         </item>
         <item>
+            <title>Designing for Subscription Success</title>
+            <link>https://developer.apple.com/news/?id=omkabpjv</link>
+            <description>&#60;p&#62;Designing for Subscription Success Providing a great subscription experience within your app makes it easier to acquire new subscribers. Learn how to more clearly communicate the value of your subscriptions&#44; streamline your sign up flow&#44; and make subscriptions appealing and effortless.&#60;/p&#62;</description>
+            <pubDate>Fri, 17 Jan 2020 17:00:44 +0000</pubDate>
+            <guid isPermaLink="false">139D4CD6-E1E9-4924-AE74-F0DDB96E4381</guid>
+        </item>
+        <item>
             <title>Upcoming Price and Tax Changes in Pakistan&#44; Thailand&#44; and Singapore</title>
             <link>https://developer.apple.com/news/?id=01162020a</link>
             <description>&#60;p&#62;Upcoming Price and Tax Changes in Pakistan&#44; Thailand&#44; and Singapore&#60;/p&#62;&#60;p&#62;When taxes or foreign exchange rates change&#44; we sometimes need to update prices on the App Store. In the next few days&#44; prices of apps on the App Store and in-app purchases (excluding auto-renewable subscriptions) will change in the following countries.&#60;/p&#62;&#60;p&#62;&#8226; Thailand: Prices will decrease due to changes in foreign exchange rates. &#8226; Pakistan: Prices will increase due to changes in foreign exchange rates.&#60;/p&#62;&#60;p&#62;Additionally&#44; on January 1&#44; 2020&#44; a 7&#37; goods and services tax (GST) was introduced in Singapore. Developers based in Singapore who provide their GST number in App Store Connect will not have their proceeds affected. Otherwise&#44; proceeds will be adjusted accordingly. Prices on the App Store won&#8217;t change based on the introduction of this tax.&#60;/p&#62;&#60;p&#62;Once these changes go into effect&#44; the Pricing and Availability section of My Apps will be updated. You can change the price of your apps and in-app purchases (including auto-renewable subscriptions) at any time in App Store Connect. For subscriptions&#44; you have the option to preserve prices for existing subscribers. &#60;a href&#61;&#34;https://itunespartner.apple.com/assets/downloads/011020-Apps-Pricing-Thailand-Pakistan.pdf&#34;&#62;View the updated price tier charts&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Thu, 16 Jan 2020 16:30:42 +0000</pubDate>
             <guid isPermaLink="false">DC2586D1-53A2-48B2-B9A2-FF1E4ED4E7F7</guid>
+        </item>
+        <item>
+            <title>Metal for Pro Apps</title>
+            <link>https://developer.apple.com/news/?id=040ivby5</link>
+            <description>&#60;p&#62;Metal for Pro Apps Metal is the platform-optimized graphics and compute framework at the heart of GPU acceleration on Apple platforms. Learn key aspects of the Metal architecture that support the techniques for modern high-performance pro applications and workflows. Learn how to leverage Metal capabilities to optimize performance and maintain a steady frame rate in video editing pipelines. Understand how to leverage CPU and GPU parallelism&#44; and dive into best practices for efficient data throughput.&#60;/p&#62;</description>
+            <pubDate>Wed, 15 Jan 2020 18:00:31 +0000</pubDate>
+            <guid isPermaLink="false">14448D03-32A1-4199-B85E-8F6DAA44CC0A</guid>
         </item>
         <item>
             <title>Building Adaptive User Interfaces for iPhone and iPad</title>
@@ -374,11 +612,39 @@
             <guid isPermaLink="false">AA4A889B-827C-45B8-A605-6449114F9006</guid>
         </item>
         <item>
+            <title>Bringing OpenGL Apps to Metal</title>
+            <link>https://developer.apple.com/news/?id=cmml5tc3</link>
+            <description>&#60;p&#62;Bringing OpenGL Apps to Metal Metal is the modern foundation for GPU-accelerated graphics and compute on Apple platforms&#44; superseding OpenGL&#44; OpenGL ES&#44; and OpenCL. Get introduced to the architecture and feature set of Metal and learn a step-by-step approach for transitioning OpenGL-based apps to the Metal API.&#60;/p&#62;</description>
+            <pubDate>Mon, 13 Jan 2020 18:00:26 +0000</pubDate>
+            <guid isPermaLink="false">E9054ABF-6CD9-4E36-AA0C-51BF1FAA96D7</guid>
+        </item>
+        <item>
             <title>Onboarding for Games</title>
             <link>https://developer.apple.com/news/?id=aq9eht84</link>
             <description>&#60;p&#62;Onboarding for Games Create an intuitive and engaging onboarding experience that makes a great first impression and helps keep players coming back. Onboarding teaches basic gameplay&#44; how to purchase items&#44; the benefits of returning&#44; and more. A successful experience is fast&#44; fun&#44; and helpful so players can learn the essentials and jump right in. &#60;a href&#61;&#34;https://developer.apple.com/app-store/onboarding-for-games/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Thu, 09 Jan 2020 17:00:27 +0000</pubDate>
             <guid isPermaLink="false">A8613345-0179-40F7-8CF9-EDCE9B1D3CF1</guid>
+        </item>
+        <item>
+            <title>Love at First Launch</title>
+            <link>https://developer.apple.com/news/?id=a7efb2cc</link>
+            <description>&#60;p&#62;Love at First Launch Engage people from the first moment they open your app&#44; and keep them coming back for more. Learn tips on how to make a compelling first impression&#44; methods for teaching new users about your app&#44; and best practices when asking users for more information.&#60;/p&#62;</description>
+            <pubDate>Wed, 08 Jan 2020 18:00:37 +0000</pubDate>
+            <guid isPermaLink="false">9D7FEB81-A437-4811-B5DC-764F567E47EB</guid>
+        </item>
+        <item>
+            <title>Optimizing App Launch</title>
+            <link>https://developer.apple.com/news/?id=3d1b276d</link>
+            <description>&#60;p&#62;Optimizing App Launch Slow app launches are frustrating. Learn about the new app launch instrument and discover how to make your app launch fast. Gain insights into what happens during app launch and how to minimize&#44; prioritize&#44; and optimize work at this critical time. Hear tips and tricks from the engineers making iOS apps launch fast.&#60;/p&#62;</description>
+            <pubDate>Tue, 07 Jan 2020 18:00:51 +0000</pubDate>
+            <guid isPermaLink="false">38C66B12-3A7F-4F29-A2C9-45963920CBA3</guid>
+        </item>
+        <item>
+            <title>Adding Indoor Maps to your App and Website</title>
+            <link>https://developer.apple.com/news/?id=618c2201</link>
+            <description>&#60;p&#62;Adding Indoor Maps to your App and Website The Indoor Maps Program enables organizations with large public or private spaces to deliver user experiences that provide precise indoor location information and present stunning indoor maps. Discover the overall process in the indoor map enablement workflow then take deep dive into the technical details on how MapKit and MapKit JS use powerful APIs and geo-standards to rapidly integrate indoor maps into your app and website.&#60;/p&#62;</description>
+            <pubDate>Mon, 06 Jan 2020 17:40:02 +0000</pubDate>
+            <guid isPermaLink="false">21E851FF-475F-4BD7-A0DB-D64EC078C0DB</guid>
         </item>
         <item>
             <title>Updating Apps that Use Web Views</title>
@@ -395,6 +661,13 @@
             <guid isPermaLink="false">87B4AEE8-7E60-4F1D-95AE-FD1CB0932BA0</guid>
         </item>
         <item>
+            <title>Understanding Images in Vision Framework</title>
+            <link>https://developer.apple.com/news/?id=a6c767a7</link>
+            <description>&#60;p&#62;Understanding Images in Vision Framework Learn all about the many advances in the Vision Framework including effortless image classification&#44; image saliency&#44; determining image similarity&#44; and improvements in facial feature detection&#44; and face capture quality scoring. This packed session will show you how easy it is to bring powerful computer vision techniques to your apps.&#60;/p&#62;</description>
+            <pubDate>Fri, 20 Dec 2019 18:00:23 +0000</pubDate>
+            <guid isPermaLink="false">18101B81-8F01-4386-A531-E514DA699C8B</guid>
+        </item>
+        <item>
             <title>Apple Security Bounty</title>
             <link>https://developer.apple.com/news/?id=12192019a</link>
             <description>&#60;p&#62;Apple Security Bounty&#60;/p&#62;&#60;p&#62;As part of Apple&#8217;s commitment to security&#44; we reward researchers who share critical issues with us through the Apple Security Bounty. You can now earn up to &#36;1&#44;500&#44;000 and report issues on iOS&#44; iPadOS&#44; macOS&#44; tvOS&#44; watchOS&#44; and iCloud. In addition&#44; Apple offers public recognition for those who submit valid reports and will match donations of the bounty payment to qualifying charities.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/security-bounty/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
@@ -402,11 +675,25 @@
             <guid isPermaLink="false">0D9FBFC4-A163-4FEA-BB94-7FEC491586FB</guid>
         </item>
         <item>
+            <title>Text Recognition in Vision Framework</title>
+            <link>https://developer.apple.com/news/?id=8132a4e8</link>
+            <description>&#60;p&#62;Text Recognition in Vision Framework Document Camera and Text Recognition features in Vision Framework enable you to extract text data from images. Learn how to leverage this built-in machine learning technology in your app. Gain a deeper understanding of the differences between fast versus accurate processing as well as character-based versus language-based recognition.&#60;/p&#62;</description>
+            <pubDate>Thu, 19 Dec 2019 17:45:53 +0000</pubDate>
+            <guid isPermaLink="false">0E1118C3-D5E0-4696-BE1C-F4B43C1DCE24</guid>
+        </item>
+        <item>
             <title>Apple Joins New Smart Home Initiative</title>
             <link>https://developer.apple.com/news/?id=12182019a</link>
             <description>&#60;p&#62;Apple Joins New Smart Home Initiative&#60;/p&#62;&#60;p&#62;Apple is taking a major step in its approach to the smart home by joining a new industry effort with Amazon&#44; Google&#44; Zigbee Alliance&#44; and others. The initiative aims to develop an open standard that will increase the compatibility of smart home products across multiple platforms&#44; with security and privacy as fundamental design tenets. The new standard will make it even simpler for developers to build one device that is compatible with smart home services and voice assistants&#44; while ensuring consumers can easily choose smart home products that seamlessly work together.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/news/?id&#61;12182019a&#34;&#62;Learn more about the initiative&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Thu, 19 Dec 2019 06:37:41 +0000</pubDate>
             <guid isPermaLink="false">35D5F521-7117-4BC5-8ABE-58F11BDF1192</guid>
+        </item>
+        <item>
+            <title>Creating Great AR Experiences</title>
+            <link>https://developer.apple.com/news/?id=d16efe0d</link>
+            <description>&#60;p&#62;Creating Great AR Experiences Engaging AR experiences are easy to start and navigate&#44; persuasively realistic&#44; and highly immersive. Learn best practices for successfully bringing people into an AR experience&#44; teaching them about how to interact and engage with virtual content&#44; and making your AR content look beautiful and grounded in the real world.&#60;/p&#62;</description>
+            <pubDate>Wed, 18 Dec 2019 18:00:03 +0000</pubDate>
+            <guid isPermaLink="false">00E06B01-3B2C-4EDE-8DA4-23ED7B3FE1F7</guid>
         </item>
         <item>
             <title>Apple Developer App Updates for China Mainland</title>
@@ -430,11 +717,32 @@
             <guid isPermaLink="false">EB283440-4380-415F-B5C0-4EA65651738C</guid>
         </item>
         <item>
+            <title>Modern Rendering with Metal</title>
+            <link>https://developer.apple.com/news/?id=4c902634</link>
+            <description>&#60;p&#62;Modern Rendering with Metal&#60;/p&#62;&#60;p&#62;Metal is the GPU-accelerated graphics and compute framework that helps developers build everything from pro apps to console-style games. Learn how to apply Metal features to implement modern graphics techniques including deferred and tiled-forward rendering. See how GPU-driven capabilities enable Metal to schedule work for itself&#44; allowing complete scenes and compute workloads to be built and executed with little to no CPU interaction. Understand how GPU Families make it easier for you to build apps that scale across Apple platforms&#44; and explore how Metal lets your apps and games realize entirely new levels of performance and capability.&#60;/p&#62;</description>
+            <pubDate>Thu, 12 Dec 2019 16:30:33 +0000</pubDate>
+            <guid isPermaLink="false">EF22A232-618B-47C2-984E-97AC43A69F88</guid>
+        </item>
+        <item>
+            <title>In-App Purchases and Using Server-to-Server Notifications</title>
+            <link>https://developer.apple.com/news/?id=b6427d55</link>
+            <description>&#60;p&#62;In-App Purchases and Using Server-to-Server Notifications Learn about the latest updates in StoreKit and dive deep into best practices for using server-to-server notifications to manage your subscribers.&#60;/p&#62;</description>
+            <pubDate>Wed, 11 Dec 2019 17:55:41 +0000</pubDate>
+            <guid isPermaLink="false">48AEBE3B-FE4E-482B-81D3-E6E0F57DEAEC</guid>
+        </item>
+        <item>
             <title>In-App Purchase</title>
             <link>https://developer.apple.com/news/?id=ac7c064e</link>
             <description>&#60;p&#62;In-App Purchase Offer customers extra content and features using in-app purchases &#8212; including premium content&#44; digital goods&#44; and subscriptions &#8212; directly within your app. You can even promote and offer in-app purchases directly on the App Store. Resources &#60;a href&#61;&#34;https://developer.apple.com/in-app-purchase/?cid&#61;developer80&#34;&#62;In-App Purchase&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Tue, 10 Dec 2019 18:15:00 +0000</pubDate>
             <guid isPermaLink="false">37CDC490-9B51-48A3-BCE6-111FACE12593</guid>
+        </item>
+        <item>
+            <title>Delivering Optimized Metal Apps and Games</title>
+            <link>https://developer.apple.com/news/?id=94a971fe</link>
+            <description>&#60;p&#62;Delivering Optimized Metal Apps and Games Optimizing performance&#44; memory&#44; and bandwidth are important considerations for resource-intensive Metal apps and games. Learn key best practices to streamline your rendering and attain high frame rates. Understand powerful tools that can help you pinpoint expensive or unexpected GPU work. Dive into GPU capabilities that can yield performance gains and get expert guidance about using memory efficiently.&#60;/p&#62;</description>
+            <pubDate>Mon, 09 Dec 2019 18:00:43 +0000</pubDate>
+            <guid isPermaLink="false">FF10B0E7-0BE1-470F-B017-3BF007F8E921</guid>
         </item>
         <item>
             <title>Adding Live Events to Your Game</title>
@@ -444,6 +752,27 @@
             <guid isPermaLink="false">F0B7A92D-480B-4C72-8774-295E4DE8D0B4</guid>
         </item>
         <item>
+            <title>Design Tips for Great Games</title>
+            <link>https://developer.apple.com/news/?id=2565ac16</link>
+            <description>&#60;p&#62;Design Tips for Great Games&#60;/p&#62;&#60;p&#62;Great games transport us into another world where we can reign over a kingdom&#44; fight epic battles&#44; or become a pinball wizard. Learn on-boarding and UI design best practices that will enable everyone to lose themselves in your game and have fun.&#60;/p&#62;</description>
+            <pubDate>Thu, 05 Dec 2019 17:45:39 +0000</pubDate>
+            <guid isPermaLink="false">60E658E6-3397-40D0-A8E4-A7C94B794549</guid>
+        </item>
+        <item>
+            <title>Introducing Combine</title>
+            <link>https://developer.apple.com/news/?id=ec51d54d</link>
+            <description>&#60;p&#62;Introducing Combine Combine is a unified declarative framework for processing values over time. Learn how it can simplify asynchronous code like networking&#44; key value observing&#44; notifications and callbacks.&#60;/p&#62;</description>
+            <pubDate>Wed, 04 Dec 2019 17:45:44 +0000</pubDate>
+            <guid isPermaLink="false">4EF2B66C-6EF2-4157-93A5-9A456131866B</guid>
+        </item>
+        <item>
+            <title>Introducing the Create ML App</title>
+            <link>https://developer.apple.com/news/?id=6ff54ab8</link>
+            <description>&#60;p&#62;Introducing the Create ML App Bringing the power of Core ML to your app begins with one challenge. How do you create your model? The new Create ML app provides an intuitive workflow for model creation. See how to train&#44; evaluate&#44; test&#44; and preview your models quickly in this easy-to-use tool. Get started with one of the many available templates handling a number of powerful machine learning tasks. Learn more about the many features for continuous model improvement and experimentation.&#60;/p&#62;</description>
+            <pubDate>Tue, 03 Dec 2019 18:00:38 +0000</pubDate>
+            <guid isPermaLink="false">8E53CA71-4C19-44AD-95A9-3319B68CEDC0</guid>
+        </item>
+        <item>
             <title>Announcing the Best of 2019 Winners</title>
             <link>https://developer.apple.com/news/?id=12022019a</link>
             <description>&#60;p&#62;Announcing the Best of 2019 Winners Every year&#44; the App Store&#8217;s Best Of celebration honors a select group of innovative&#44; beautifully designed&#44; culturally interesting apps and games with exceptional production quality. Congratulations to the 2019 winning developers&#33;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/best-of-2019/&#34;&#62;See this year&#8217;s selections&#60;/a&#62;&#60;/p&#62;</description>
@@ -451,11 +780,53 @@
             <guid isPermaLink="false">51CEA705-28D3-4BA5-A919-1499A5BB650F</guid>
         </item>
         <item>
+            <title>Designing Great ML Experiences</title>
+            <link>https://developer.apple.com/news/?id=2678b83e</link>
+            <description>&#60;p&#62;Designing Great ML Experiences Machine learning enables new experiences that understand what we say&#44; suggest things that we may love&#44; and allow us to express ourselves in new&#44; rich ways. Machine learning can make existing experiences better by automating mundane tasks and improving the accuracy and speed of interactions. Learn how to incorporate ML experiences into your apps&#44; and gain practical approaches to designing user interfaces that feel effortlessly helpful.&#60;/p&#62;</description>
+            <pubDate>Mon, 02 Dec 2019 18:00:09 +0000</pubDate>
+            <guid isPermaLink="false">1300905D-9232-4FBD-BAD7-B61914BA84F8</guid>
+        </item>
+        <item>
             <title>App Store Connect Holiday Schedule</title>
             <link>https://developer.apple.com/news/?id=11292019a</link>
             <description>&#60;p&#62;App Store Connect Holiday Schedule&#60;/p&#62;&#60;p&#62;The busiest season on the App Store is almost here. Make sure your apps are up to date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time)&#44; so any releases should be scheduled&#44; submitted&#44; and approved in advance. Other App Store Connect and developer account features will remain available.&#60;/p&#62;</description>
             <pubDate>Fri, 29 Nov 2019 15:00:47 +0000</pubDate>
             <guid isPermaLink="false">0D832615-3DC1-47D8-9582-1FBF6E506ABD</guid>
+        </item>
+        <item>
+            <title>App Icon Design</title>
+            <link>https://developer.apple.com/news/?id=d4a5d0ce</link>
+            <description>&#60;p&#62;App Icon Design An app icon is the face of your app on the home screen. Learn key design principles for creating simple&#44; unique&#44; meaningful and beautiful app icons. Gain simple but effective techniques for testing your app icon for clarity and immediate recognizability.&#60;/p&#62;</description>
+            <pubDate>Thu, 28 Nov 2019 17:30:58 +0000</pubDate>
+            <guid isPermaLink="false">B692C85C-2FA8-46C7-B6D0-1AB781769D19</guid>
+        </item>
+        <item>
+            <title>Swift Playgrounds 3</title>
+            <link>https://developer.apple.com/news/?id=b03c6dcc</link>
+            <description>&#60;p&#62;Swift Playgrounds 3 Introducing Swift Playgrounds 3: the latest iteration of the revolutionary app for iPad that makes coding in Swift interactive and fun. Discover how you can use your own playgrounds to rapidly iterate on code that uses device features. Find out how the new modules feature both helps organize your own code and provides new opportunities for playground book authors.&#60;/p&#62;</description>
+            <pubDate>Wed, 27 Nov 2019 15:50:04 +0000</pubDate>
+            <guid isPermaLink="false">7F012917-879E-407C-88F4-62C637CD8C11</guid>
+        </item>
+        <item>
+            <title>What&#39;s New in Xcode 11</title>
+            <link>https://developer.apple.com/news/?id=76a49336</link>
+            <description>&#60;p&#62;What&#39;s New in Xcode 11 Take a tour of new features in Xcode 11&#44; designed to help you get from idea to product faster than ever. Discover new ways to edit and organize your source code&#44; new capabilities for designing and previewing user interfaces&#44; and great improvements for debugging and testing. Get an overview for sessions covering developer tools this year.&#60;/p&#62;</description>
+            <pubDate>Tue, 26 Nov 2019 17:45:39 +0000</pubDate>
+            <guid isPermaLink="false">B4D2C496-1B4C-4544-853E-7B4B50A0E7B5</guid>
+        </item>
+        <item>
+            <title>Making the Most of Your Product Page</title>
+            <link>https://developer.apple.com/news/?id=f7618bd9</link>
+            <description>&#60;p&#62;Making the Most of Your Product Page Every element of your App Store product page has the power to drive downloads of your app. Learn how to help customers discover your app and engage them through thoughtfully crafted metadata&#44; on your product page and in search results.&#60;/p&#62;</description>
+            <pubDate>Mon, 25 Nov 2019 15:30:21 +0000</pubDate>
+            <guid isPermaLink="false">98DB1D6C-6164-4AEE-8C3D-1E394BF0821C</guid>
+        </item>
+        <item>
+            <title>Introducing Multiple Windows on iPad</title>
+            <link>https://developer.apple.com/news/?id=2a7989bd</link>
+            <description>&#60;p&#62;Introducing Multiple Windows on iPad Multitasking is an exciting way to add power to your iPad app. It is easy to enable your app to run two instances of your interface side-by-side&#44; and your customers will love it. Learn how to take your existing features like drag and drop and use them to easily create a second window. Find out how supporting multiple windows changes the app lifecycle and what that means for all applications. Hear about some common mistakes and how to solve them&#44; setting you and your customers up for a fantastic experience.&#60;/p&#62;</description>
+            <pubDate>Fri, 22 Nov 2019 18:00:29 +0000</pubDate>
+            <guid isPermaLink="false">ADFE39FA-D422-4B24-AD29-2CF00E362063</guid>
         </item>
         <item>
             <title>New Server Notifications for Subscriptions Now Available</title>
@@ -472,6 +843,20 @@
             <guid isPermaLink="false">1F2E68E3-77E1-4899-9AB3-E6D4CEEBAB4B</guid>
         </item>
         <item>
+            <title>Designing iPad Apps for Mac</title>
+            <link>https://developer.apple.com/news/?id=3535f9d6</link>
+            <description>&#60;p&#62;Designing iPad Apps for Mac Discover how you can create a great Mac experience with your iPad app. Learn about essential techniques for adapting your iPad app&#39;s layout and architecture for Mac&#44; considerations for type and color&#44; and how you can take advantage of macOS interfaces such as the menu bar&#44; sidebar and window toolbar.&#60;/p&#62;</description>
+            <pubDate>Thu, 21 Nov 2019 18:00:24 +0000</pubDate>
+            <guid isPermaLink="false">3DADD330-745C-4ED1-B854-A2452D20B4A0</guid>
+        </item>
+        <item>
+            <title>What&#8217;s New in Sharing</title>
+            <link>https://developer.apple.com/news/?id=pl0fv05m</link>
+            <description>&#60;p&#62;What&#8217;s New in Sharing&#60;/p&#62;&#60;p&#62;The Share Sheet provides a convenient way to share information from your current context with other apps&#44; people&#44; and services. Discover the details on using the Link Presentation framework to present shared URLs in a rich and consistent way&#44; how to create a Share Extension configured to recommend recipients managed by your messaging app in the Share Sheet UI&#44; and learn best practices for ensuring your users sharing experience is optimized for all platforms.&#60;/p&#62;</description>
+            <pubDate>Thu, 21 Nov 2019 17:45:07 +0000</pubDate>
+            <guid isPermaLink="false">1AF1EDB2-3AEC-44CF-8011-CC6C2318C220</guid>
+        </item>
+        <item>
             <title>Celebrate Computer Science Education Week with Apple</title>
             <link>https://developer.apple.com/news/?id=11202019a</link>
             <description>&#60;p&#62;Celebrate Computer Science Education Week with Apple&#60;/p&#62;&#60;p&#62;In celebration of Computer Science Education Week and Hour of Code&#44; join us at an Apple Store near you to learn the basics of coding and apps&#44; December 1 to 15.&#60;/p&#62;&#60;p&#62;Sign up for engaging &#60;a href&#61;&#34;https://www.apple.com/today/collection/codewithapple/&#34;&#62;Code with Apple sessions&#60;/a&#62; to code augmented reality art&#44; robots&#44; and more on iPad. And if you&#8217;d like to lead your own Swift coding activity&#44; you can download the new &#60;a href&#61;&#34;https://www.apple.com/education/docs/hour-of-code-guide-2019.pdf&#34;&#62;Hour of Code with Swift Playgrounds Facilitator Guide&#60;/a&#62;.&#60;/p&#62;</description>
@@ -479,11 +864,39 @@
             <guid isPermaLink="false">7C0BB76A-B140-48F3-990B-2E4BE4F8132E</guid>
         </item>
         <item>
+            <title>Implementing Dark Mode on iOS</title>
+            <link>https://developer.apple.com/news/?id=bed56a00</link>
+            <description>&#60;p&#62;Implementing Dark Mode on iOS&#60;/p&#62;&#60;p&#62;Hear from the UIKit engineering team about the principles and concepts that anchor Dark Mode on iOS. Get introduced to the principles of enhancing your app with this new appearance using dynamic colors and images&#44; and add an experience that people are sure to love.&#60;/p&#62;</description>
+            <pubDate>Wed, 20 Nov 2019 17:55:49 +0000</pubDate>
+            <guid isPermaLink="false">BADBAC78-244A-4CE9-90CE-C6EE6484871B</guid>
+        </item>
+        <item>
+            <title>Modernizing Your UI for iOS 13</title>
+            <link>https://developer.apple.com/news/?id=e27fec83</link>
+            <description>&#60;p&#62;Modernizing Your UI for iOS 13 iOS 13 combines powerful new multitasking and productivity technologies with a refreshed look and feel for all applications. Familiarize yourself with new requirements to keep your app ready for upcoming versions of iOS. Discover improvements to search fields and a totally new way to present UI. Learn how to adopt new gestures around selection&#44; access peek and pop on all hardware&#44; and how to renew your app&#39;s look for iOS 13.&#60;/p&#62;</description>
+            <pubDate>Tue, 19 Nov 2019 18:05:42 +0000</pubDate>
+            <guid isPermaLink="false">F723D685-6493-43A0-8DEB-4F6275199F1A</guid>
+        </item>
+        <item>
+            <title>Introducing iPad Apps for Mac</title>
+            <link>https://developer.apple.com/news/?id=952893c0</link>
+            <description>&#60;p&#62;Introducing iPad Apps for Mac iPad Apps for Mac is an easy way to bring your iPad app to the Mac while maintaining your single code-base. Learn about common Mac features that are automatically implemented for you. Find out how to work with iOS-only frameworks and what using them could mean for your app. Hear about some common usage patterns including how to use third-party frameworks and some setup tips and tricks. Get a taste for how you can make your new Mac app feel like a Mac app by incorporating platform-specific features.&#60;/p&#62;</description>
+            <pubDate>Tue, 19 Nov 2019 18:00:31 +0000</pubDate>
+            <guid isPermaLink="false">5DC229DC-C659-4B20-BD12-CB2EC33641A4</guid>
+        </item>
+        <item>
             <title>Introducing the Apple Developer App</title>
             <link>https://developer.apple.com/news/?id=11182019a</link>
             <description>&#60;p&#62;Introducing the Apple Developer App&#60;/p&#62;&#60;p&#62;Starting today&#44; the WWDC app is now the Apple Developer app and delivers in-depth information from Apple experts all year round. Stay up to date with the latest developer news&#44; informative videos&#44; WWDC content&#44; and more.&#60;/p&#62;&#60;p&#62;Developers in the U.S. can also use the app to conveniently enroll in the Apple Developer Program on iPhone or iPad&#44; with enrollment in additional countries and regions becoming available over time. And since membership is provided as an auto-renewable subscription&#44; keeping your account active is easy.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/support/app-account&#34;&#62;Learn about enrolling with the app&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 18 Nov 2019 18:00:18 +0000</pubDate>
             <guid isPermaLink="false">DD18FC24-4ABE-4B8E-9F18-096E5D88C997</guid>
+        </item>
+        <item>
+            <title>What&#39;s New in iOS Design</title>
+            <link>https://developer.apple.com/news/?id=957d2539</link>
+            <description>&#60;p&#62;What&#39;s New in iOS Design Discover how to update your app&#8217;s interface for Dark Mode to create beautiful and accessible apps. And learn how refinements to modal sheets and the new contextual menu UI can help improve usability and lead to more powerful and efficient workflows.&#60;/p&#62;</description>
+            <pubDate>Mon, 18 Nov 2019 17:55:20 +0000</pubDate>
+            <guid isPermaLink="false">10FCD952-D891-4ECA-8586-A96946A8B63F</guid>
         </item>
         <item>
             <title>Marketing Resources and Identity Guidelines</title>
@@ -659,6 +1072,13 @@
             <description>&#60;p&#62;WWDC19 Video Transcripts &#123;Now Available&#125;&#60;/p&#62;&#60;p&#62;Take advantage of transcripts to quickly discover and share information presented in WWDC19 videos. You can search by keyword&#44; see all instances where the keyword is mentioned in the video&#44; go straight to the time it was mentioned&#44; and even share a link to that specific time.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/videos/wwdc2019/&#34;&#62;See this year&#8217;s WWDC videos&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Wed, 10 Jul 2019 20:30:00 +0000</pubDate>
             <guid isPermaLink="false">760E37BA-55D2-4F84-A7F4-9689BEF6C88D</guid>
+        </item>
+        <item>
+            <title>Updated &#123;App Store&#125; Links</title>
+            <link>https://developer.apple.com/news/?id=06142019a</link>
+            <description>&#60;p&#62;Updated &#123;App Store&#125; Links&#60;/p&#62;&#60;p&#62;Links generated for apps on the &#123;App Store&#125; now begin with apps.apple.com. Existing links that begin with itunes.apple.com will continue to work in their current form and will automatically redirect to the apps.apple.com domain.&#60;/p&#62;</description>
+            <pubDate>Fri, 14 Jun 2019 21:25:00 +0000</pubDate>
+            <guid isPermaLink="false">D4A55970-00C3-4D7A-B64A-63CE4326512E</guid>
         </item>
         <item>
             <title>Augmented Reality</title>
