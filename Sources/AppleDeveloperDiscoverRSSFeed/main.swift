@@ -17,6 +17,7 @@ struct Discover: Decodable {
         
         struct Localization: Decodable {
             let id: UUID
+            let summaryComponents: [Component]
             let detailComponents: [Component]
         }
         
@@ -65,6 +66,8 @@ struct Discover: Decodable {
                     content = .codeSnippet
                 case "resource":
                     content = .resource
+                case "detailLink":
+                    content = .detailLink
                 default:
                     throw DecodingError.dataCorruptedError(forKey: .type, in: container, debugDescription: "Found unexpected component type \(type)")
                 }
@@ -82,6 +85,7 @@ struct Discover: Decodable {
                 case pullQuote(PullQuote)
                 case codeSnippet
                 case resource
+                case detailLink
                 
                 var description: String {
                     switch self {
@@ -106,6 +110,8 @@ struct Discover: Decodable {
                     case .codeSnippet:
                         return ""
                     case .resource:
+                        return ""
+                    case .detailLink:
                         return ""
                     }
                 }
@@ -176,13 +182,23 @@ URLSession.shared.dataTask(with: discoverJSONURL) { possibleData, _, possibleErr
         discover.articles.forEach {
             guard
                 let englishLocalization = $0.localizations["eng"],
-                let titleComponent = englishLocalization.detailComponents.first(where: { $0.type == "title" })
+                let titleComponent = englishLocalization.detailComponents.first(where: { $0.type == "title" }) ??
+                    englishLocalization.summaryComponents.first(where: { $0.type == "title" })
             else { return }
 
             let title = titleComponent.content.description.addingASCIIEntities
             let link = $0.shareURL.description
-            let description = englishLocalization.detailComponents.reduce("") { description, component in
-                description + "\n" + component.content.description
+            var description = englishLocalization.detailComponents
+                .reduce("") { description, component in
+                    description + "\n" + component.content.description
+                }
+                .trimmingCharacters(in: .whitespacesAndNewlines)
+            if description.isEmpty {
+                description = englishLocalization.summaryComponents
+                    .reduce("") { description, component in
+                        description + "\n" + component.content.description
+                    }
+                    .trimmingCharacters(in: .whitespacesAndNewlines)
             }
             let html = markdownParser.html(from: description)
             let escapedHTML = html.addingASCIIEntities
