@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 08 May 2020 00:06:46 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2020 00:06:49 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Meet the Developer: Panic</title>
+            <link>https://developer.apple.com/news/?id=t4n6e4wo</link>
+            <description>&#60;p&#62;Meet the Developer: Panic&#60;/p&#62;&#60;p&#62;It may be cool to be a developer these days&#44; but that wasn&#8217;t always the case&#8212;especially not in 1998&#44; when Cabel Sasser and Steven Frank started Panic. Running a fledgling software company was daunting and exhausting&#44; but the duo was having so much fun they didn&#8217;t care.&#60;/p&#62;&#60;p&#62;&#8220;Steven once compared our relationship to that of R2-D2 and C-3PO&#44;&#8221; Sasser says. &#8220;I roll around making strange noises and interfacing with things&#44; while he stays the course&#44; flapping his arms and fretting about protocol. But they need each other to succeed&#44; right?&#8221;&#60;/p&#62;&#60;p&#62;When Panic started&#44; developers had to worry about more than coding a great app; they also had to figure out how and where they were going to sell it. The internet wasn&#8217;t the e-commerce juggernaut it is now. Developers needed to hit the streets.&#60;/p&#62;&#60;p&#62;&#8220;It&#8217;s almost impossible to comprehend now&#44; but back in the day&#44; if you wanted to sell an app&#44; you had to manufacture boxes&#44; sign up with an expensive distributor&#44; try to get your boxed app onto the shelves at the computer store&#44; and pay extra for placement on the endcap&#44;&#8221; Sasser says.&#60;/p&#62;&#60;p&#62;With &#60;em&#62;Transmit&#60;/em&#62;&#44; the elegant FTP app Panic debuted in 1998&#44; the company established what&#8217;s become a core principle: &#8220;Take a complicated thing and make it easy&#44; beautiful&#44; and powerful&#44;&#8221; Sasser says.&#60;/p&#62;&#60;p&#62;Acknowledging that file-transfer apps aren&#8217;t exactly the most exciting&#44; Sasser says he&#8217;s well aware that a lot of customers would be satisfied if &#60;em&#62;Transmit&#60;/em&#62; simply did the bare minimum. An FTP app doesn&#8217;t have to wow you. Nor do Panic&#8217;s other apps&#44; like &#60;em&#62;Prompt&#60;/em&#62;&#44; an SSH client&#44; or &#60;em&#62;Coda&#60;/em&#62;&#44; a file manager and text editor.&#60;/p&#62;&#60;p&#62;But Sasser expects more. He wants Panic&#8217;s apps to appeal to your design sensibility as well.&#60;/p&#62;&#60;blockquote&#62;Take a complicated thing and make it easy&#44; beautiful&#44; and powerful.&#60;/blockquote&#62;&#60;p&#62;&#38;mdash; Panic cofounder Cabel Sasser&#60;/p&#62;&#60;p&#62;&#34;The matrix is really simple: Too much design and you can alienate power users. Not enough and you&#8217;ll intimidate new users&#44;&#8221; Sasser says. Striking the right balance applies to functionality as well. &#8220;Balancing design and functionality is one of the most difficult parts of our job.&#8221;&#60;/p&#62;&#60;p&#62;After decades spent developing software for the Mac&#44; Sasser and Frank have earned the respect of customers and other developers alike. Sasser chalks this up to Panic&#8217;s core tenets: honesty&#44; personality&#44; and responsibility.&#60;/p&#62;&#60;p&#62;&#8220;As humans&#44; we always know when a company is selling us some PR flimflam. It never works&#44;&#8221; he says. &#8220;So we are always absolutely honest and up-front.&#8221;&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;&#60;em&#62;Originally published on the App Store and Mac App Store.&#60;/em&#62;&#60;/p&#62;</description>
+            <pubDate>Fri, 08 May 2020 17:00:37 +0000</pubDate>
+            <guid isPermaLink="false">62B5D761-C3FB-4052-9F7D-DBEA327B7AC1</guid>
+        </item>
         <item>
             <title>How to start designing assets in Display P3</title>
             <link>https://developer.apple.com/news/?id=5cda5ipr</link>
@@ -1095,20 +1102,6 @@
             <guid isPermaLink="false">D4A55970-00C3-4D7A-B64A-63CE4326512E</guid>
         </item>
         <item>
-            <title>Feedback Assistant</title>
-            <link>https://developer.apple.com/news/?id=06032019h</link>
-            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
-        </item>
-        <item>
-            <title>SwiftUI</title>
-            <link>https://developer.apple.com/news/?id=06032019b</link>
-            <description>&#60;p&#62;SwiftUI&#60;/p&#62;&#60;p&#62;SwiftUI is an innovative new way to build user interfaces across all Apple platforms&#44; so you can create better apps with less code. With a declarative Swift syntax that&#8217;s easy to read and natural to write&#44; SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type&#44; Dark Mode&#44; localization&#44; and accessibility means your first line of SwiftUI code is already the most powerful UI code you&#8217;ve ever written.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/xcode/swiftui/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
-        </item>
-        <item>
             <title>See What&#8217;s New on Apple Platforms</title>
             <link>https://developer.apple.com/news/?id=06032019a</link>
             <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
@@ -1130,11 +1123,11 @@
             <guid isPermaLink="false">DA75EFAE-344E-4FFA-8372-5337BCBD6617</guid>
         </item>
         <item>
-            <title>Augmented Reality</title>
-            <link>https://developer.apple.com/news/?id=06032019f</link>
-            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>Notarization Requirement for Mac Software</title>
+            <link>https://developer.apple.com/news/?id=06032019i</link>
+            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
+            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
         </item>
         <item>
             <title>Sign in with Apple</title>
@@ -1144,13 +1137,6 @@
             <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
         </item>
         <item>
-            <title>Bring Your iPad App to Mac</title>
-            <link>https://developer.apple.com/news/?id=06032019c</link>
-            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
-        </item>
-        <item>
             <title>Machine Learning</title>
             <link>https://developer.apple.com/news/?id=06032019e</link>
             <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
@@ -1158,11 +1144,32 @@
             <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
         </item>
         <item>
-            <title>Notarization Requirement for Mac Software</title>
-            <link>https://developer.apple.com/news/?id=06032019i</link>
-            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>Augmented Reality</title>
+            <link>https://developer.apple.com/news/?id=06032019f</link>
+            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
+            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
+        </item>
+        <item>
+            <title>Bring Your iPad App to Mac</title>
+            <link>https://developer.apple.com/news/?id=06032019c</link>
+            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
+        </item>
+        <item>
+            <title>Feedback Assistant</title>
+            <link>https://developer.apple.com/news/?id=06032019h</link>
+            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
+        </item>
+        <item>
+            <title>SwiftUI</title>
+            <link>https://developer.apple.com/news/?id=06032019b</link>
+            <description>&#60;p&#62;SwiftUI&#60;/p&#62;&#60;p&#62;SwiftUI is an innovative new way to build user interfaces across all Apple platforms&#44; so you can create better apps with less code. With a declarative Swift syntax that&#8217;s easy to read and natural to write&#44; SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type&#44; Dark Mode&#44; localization&#44; and accessibility means your first line of SwiftUI code is already the most powerful UI code you&#8217;ve ever written.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/xcode/swiftui/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
         </item>
     </channel>
 </rss>
