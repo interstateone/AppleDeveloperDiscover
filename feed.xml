@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 15 May 2020 00:07:44 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2020 00:07:49 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Meet the Developer: Craig Hockenberry</title>
+            <link>https://developer.apple.com/news/?id=6qwc01iu</link>
+            <description>&#60;p&#62;Meet the Developer: Craig Hockenberry&#60;/p&#62;&#60;p&#62;It took a while for Craig Hockenberry&#44; principal at The Iconfactory&#44; to realize his true calling. Although he began coding when he was 16&#44; in 1976 (the same year the Apple I was released) his career took a detour into corporate management.&#60;/p&#62;&#60;p&#62;&#8220;We originally made &#60;em&#62;Twitterrific&#60;/em&#62; because all the folks at the Iconfactory wanted an easier way to follow what our friends and colleagues were doing&#44;&#8221; said Hockenberry. &#34;&#60;em&#62;xScope&#60;/em&#62; is another product in the same vein&#8212;we built it because we needed it. We&#8217;re our own best customers.&#8221;&#60;/p&#62;&#60;p&#62;To say Hockenberry has been ahead of the curve over the course of his storied career is an understatement. &#60;em&#62;Twitterrific&#60;/em&#62;&#44; released over a decade ago&#44; was the very first &#60;em&#62;Twitter&#60;/em&#62; client for Mac. Hockenberry even helped coin the term &#8220;tweet.&#8221;&#60;/p&#62;&#60;p&#62;And you know the signature blue bird everyone associates with the social network? Hockenberry created the first one: an icon he named Ollie. (&#60;em&#62;Twitter&#60;/em&#62; later followed suit with its own variation.)&#60;/p&#62;&#60;p&#62;While the apps Hockenberry has worked on are designed for a diverse range of customers&#44; the philosophy behind them has remained the same.&#60;/p&#62;&#60;p&#62;&#34;When we create a new app&#44; we&#8217;re always thinking&#44; &#8216;What problem does this solve for the customer?&#8217;&#8221; he says. For Hockenberry&#44; functionality and design are equally important. &#8220;Functionality overcomes the problem&#44; and design makes it approachable.&#8221;&#60;/p&#62;&#60;p&#62;Ask anyone in the community for a shortlist of the best developers and Hockenberry&#8217;s name inevitably comes up &#8212; no doubt because he&#8217;s been such an active and generous member. Iconfactory.com gives away about 2 terabytes of icons and wallpapers each month. Hockenberry also blogs about development at furbo.org&#44; where he&#8217;s always willing to share his know-how.&#60;/p&#62;&#60;p&#62;&#34;It&#8217;s something I learned from my dad &#8212; you need to help others in your community&#44;&#8221; he says. &#8220;When I find something cool or have a unique insight&#44; I love to share it with other developers.&#8221;&#60;/p&#62;&#60;p&#62;Thankfully&#44; he has no intention of slowing down.&#60;/p&#62;&#60;p&#62;&#8220;My grandfather always said&#44; &#8216;You&#8217;re only as old as you act.&#8217; If that&#8217;s the case&#44; I&#8217;m still my younger self&#33;&#8221;&#60;/p&#62;&#60;hr/&#62;&#60;p&#62;&#60;em&#62;Originally published on the Mac App Store.&#60;/em&#62;&#60;/p&#62;</description>
+            <pubDate>Fri, 15 May 2020 17:00:49 +0000</pubDate>
+            <guid isPermaLink="false">04636E33-54F2-42BA-B925-9210DB1B690E</guid>
+        </item>
         <item>
             <title>How to master multitasking and multiple windows for your iPad app</title>
             <link>https://developer.apple.com/news/?id=9nvbn1tp</link>
@@ -976,18 +983,18 @@
             <guid isPermaLink="false">CD8F1609-BB21-481C-A762-1D3E24862863</guid>
         </item>
         <item>
-            <title>Submit Your Apps to the &#123;Mac App Store&#125;</title>
-            <link>https://developer.apple.com/news/?id=10032019b</link>
-            <description>&#60;p&#62;Submit Your Apps to the &#123;Mac App Store&#125;&#60;/p&#62;&#60;p&#62;&#123;macOS Catalina&#125; will soon be available to hundreds of millions of users around the world. With &#123;macOS Catalina&#44;&#125; your Mac apps can take advantage of &#123;Sign in with Apple&#44;&#125; Sidecar&#44; and the latest advances in &#123;Core ML 3&#44;&#125; and Metal. And with &#123;Mac Catalyst&#125;&#44; you can bring your iPad apps to Mac. Build your apps using &#123;Xcode 11&#44;&#125; test them on a Mac computer running the &#123;macOS Catalina&#125; &#123;GM seed&#44;&#125; and submit them for review.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/macos/submit/&#34;&#62;Learn about preparing your apps&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
-            <guid isPermaLink="false">9342EC74-2658-4E50-A0D9-7714ED6A9246</guid>
-        </item>
-        <item>
             <title>Notarize Your Mac Software for &#123;macOS Catalina&#125;</title>
             <link>https://developer.apple.com/news/?id=10032019a</link>
             <description>&#60;p&#62;Notarize Your Mac Software for &#123;macOS Catalina&#125;&#60;/p&#62;&#60;p&#62;To further protect users on &#123;macOS Catalina&#44;&#125; we&#8217;re working with developers to make sure all software&#44; whether distributed on the &#123;App Store&#125; or outside of it&#44; is signed or notarized by Apple. This will give users more confidence that the software they download and run&#44; no matter where they get it from&#44; has been checked for known security issues.&#60;/p&#62;&#60;p&#62;In June&#44; we announced that all Mac software distributed outside the &#123;Mac App Store&#125; must be notarized by Apple in order to run by default on &#123;macOS Catalina.&#125; Make sure to test all versions of your software on the &#123;macOS Catalina&#125; &#123;GM seed&#125; and submit it to Apple to &#123;be notarized&#125;.&#60;/p&#62;</description>
             <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
             <guid isPermaLink="false">8FAAD7E3-E314-4DAD-AD21-BCAF9C0E23D8</guid>
+        </item>
+        <item>
+            <title>Submit Your Apps to the &#123;Mac App Store&#125;</title>
+            <link>https://developer.apple.com/news/?id=10032019b</link>
+            <description>&#60;p&#62;Submit Your Apps to the &#123;Mac App Store&#125;&#60;/p&#62;&#60;p&#62;&#123;macOS Catalina&#125; will soon be available to hundreds of millions of users around the world. With &#123;macOS Catalina&#44;&#125; your Mac apps can take advantage of &#123;Sign in with Apple&#44;&#125; Sidecar&#44; and the latest advances in &#123;Core ML 3&#44;&#125; and Metal. And with &#123;Mac Catalyst&#125;&#44; you can bring your iPad apps to Mac. Build your apps using &#123;Xcode 11&#44;&#125; test them on a Mac computer running the &#123;macOS Catalina&#125; &#123;GM seed&#44;&#125; and submit them for review.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/macos/submit/&#34;&#62;Learn about preparing your apps&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
+            <guid isPermaLink="false">9342EC74-2658-4E50-A0D9-7714ED6A9246</guid>
         </item>
         <item>
             <title>Exchange Rate Changes Will Affect &#123;App Store&#125; Prices in Certain Regions</title>
@@ -1039,18 +1046,18 @@
             <guid isPermaLink="false">107EC978-4AB6-4BE1-B716-77E463FC1E93</guid>
         </item>
         <item>
-            <title>New Guidelines for Sign in with Apple</title>
-            <link>https://developer.apple.com/news/?id=09122019b</link>
-            <description>&#60;p&#62;New Guidelines for Sign in with Apple&#60;/p&#62;&#60;p&#62;Make it easy for users to sign in to your apps and websites using the &#123;Apple ID&#125; they already have. With privacy and security features built-in&#44; &#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Sign in with Apple&#60;/a&#62; is a great way to help users set up an account&#44; sign in&#44; and engage with your app quickly and easily. All accounts are protected with two-factor authentication for superior security&#44; and Apple will not track users&#8217; activity in your app or website.&#60;/p&#62;&#60;p&#62;We&#8217;ve updated the &#123;App Store&#125; Review Guidelines to provide criteria for when apps are required to use &#123;Sign in with Apple&#125;. Starting today&#44; new apps submitted to the &#123;App Store&#125; must follow these guidelines. Existing apps and app updates must follow them by &#123;April 2020&#125;. We&#8217;ve also provided new guidelines for using Sign in with Apple on the web and other platforms.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#sign-in-with-apple&#34;&#62;View the App Store review guideline&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/usage-guidelines-for-websites-and-other-platforms/&#34;&#62;View guidelines for websites and other platforms&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D03656FC-9B30-474D-BBE3-5E4B7D058773</guid>
-        </item>
-        <item>
             <title>App Updates in the Kids Category</title>
             <link>https://developer.apple.com/news/?id=091202019a</link>
             <description>&#60;p&#62;App Updates in the Kids Category&#60;/p&#62;&#60;p&#62;When parents visit the Kids category on the &#123;App Store&#125;&#44; they expect the apps they find will protect their children&#8217;s data&#44; provide only age-appropriate content&#44; and require a parental gate in order to link out of the app&#44; request permissions&#44; or present purchasing opportunities. It&#8217;s critical that no personally identifiable information or device information be transmitted to third parties&#44; and that advertisements are human-reviewed for age appropriateness in order to be displayed.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids-category&#34;&#62;Guideline 1.3&#60;/a&#62; and &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids&#34;&#62;guideline 5.1.4&#60;/a&#62; detail important rules related to apps in the Kids category and we&#8217;ve been working with some developers of existing apps to assist them in the transition to full compliance with this important guideline.&#60;/p&#62;&#60;p&#62;All new apps must follow these guidelines&#44; and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement these guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into full compliance.&#60;/p&#62;</description>
             <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
             <guid isPermaLink="false">D1065DA6-607E-478E-A0AC-71DB05F1BE86</guid>
+        </item>
+        <item>
+            <title>New Guidelines for Sign in with Apple</title>
+            <link>https://developer.apple.com/news/?id=09122019b</link>
+            <description>&#60;p&#62;New Guidelines for Sign in with Apple&#60;/p&#62;&#60;p&#62;Make it easy for users to sign in to your apps and websites using the &#123;Apple ID&#125; they already have. With privacy and security features built-in&#44; &#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Sign in with Apple&#60;/a&#62; is a great way to help users set up an account&#44; sign in&#44; and engage with your app quickly and easily. All accounts are protected with two-factor authentication for superior security&#44; and Apple will not track users&#8217; activity in your app or website.&#60;/p&#62;&#60;p&#62;We&#8217;ve updated the &#123;App Store&#125; Review Guidelines to provide criteria for when apps are required to use &#123;Sign in with Apple&#125;. Starting today&#44; new apps submitted to the &#123;App Store&#125; must follow these guidelines. Existing apps and app updates must follow them by &#123;April 2020&#125;. We&#8217;ve also provided new guidelines for using Sign in with Apple on the web and other platforms.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#sign-in-with-apple&#34;&#62;View the App Store review guideline&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/usage-guidelines-for-websites-and-other-platforms/&#34;&#62;View guidelines for websites and other platforms&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
+            <guid isPermaLink="false">D03656FC-9B30-474D-BBE3-5E4B7D058773</guid>
         </item>
         <item>
             <title>Submit Your watchOS Apps to the &#123;App Store&#125;</title>
@@ -1123,11 +1130,39 @@
             <guid isPermaLink="false">D4A55970-00C3-4D7A-B64A-63CE4326512E</guid>
         </item>
         <item>
+            <title>Siri</title>
+            <link>https://developer.apple.com/news/?id=06032019g</link>
+            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
+        </item>
+        <item>
             <title>Sign in with Apple</title>
             <link>https://developer.apple.com/news/?id=06032019d</link>
             <description>&#60;p&#62;Sign in with Apple&#60;/p&#62;&#60;p&#62;Now users can sign in to your apps and websites with their Apple ID&#44; and can even use Face ID or Touch ID. With privacy and security features&#44; Sign in with Apple is a great way to help your users set up an account and get started right away.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
             <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
+        </item>
+        <item>
+            <title>Bring Your iPad App to Mac</title>
+            <link>https://developer.apple.com/news/?id=06032019c</link>
+            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
+        </item>
+        <item>
+            <title>Augmented Reality</title>
+            <link>https://developer.apple.com/news/?id=06032019f</link>
+            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
+        </item>
+        <item>
+            <title>Machine Learning</title>
+            <link>https://developer.apple.com/news/?id=06032019e</link>
+            <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
         </item>
         <item>
             <title>Updates to the App Store Review Guidelines</title>
@@ -1151,13 +1186,6 @@
             <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
         </item>
         <item>
-            <title>Bring Your iPad App to Mac</title>
-            <link>https://developer.apple.com/news/?id=06032019c</link>
-            <description>&#60;p&#62;Bring Your iPad App to Mac&#60;/p&#62;&#60;p&#62;Now it&#8217;s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code&#44; so any changes you make translate to both platforms. And your newly created Mac app runs natively&#44; utilizing the same frameworks&#44; resources&#44; and even runtime environment as apps built just for Mac.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/ipad-apps-for-mac/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
-        </item>
-        <item>
             <title>SwiftUI</title>
             <link>https://developer.apple.com/news/?id=06032019b</link>
             <description>&#60;p&#62;SwiftUI&#60;/p&#62;&#60;p&#62;SwiftUI is an innovative new way to build user interfaces across all Apple platforms&#44; so you can create better apps with less code. With a declarative Swift syntax that&#8217;s easy to read and natural to write&#44; SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type&#44; Dark Mode&#44; localization&#44; and accessibility means your first line of SwiftUI code is already the most powerful UI code you&#8217;ve ever written.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/xcode/swiftui/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
@@ -1165,32 +1193,11 @@
             <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
         </item>
         <item>
-            <title>Siri</title>
-            <link>https://developer.apple.com/news/?id=06032019g</link>
-            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
-        </item>
-        <item>
             <title>See What&#8217;s New on Apple Platforms</title>
             <link>https://developer.apple.com/news/?id=06032019a</link>
             <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
             <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
-        </item>
-        <item>
-            <title>Augmented Reality</title>
-            <link>https://developer.apple.com/news/?id=06032019f</link>
-            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
-        </item>
-        <item>
-            <title>Machine Learning</title>
-            <link>https://developer.apple.com/news/?id=06032019e</link>
-            <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
         </item>
     </channel>
 </rss>
