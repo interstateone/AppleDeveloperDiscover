@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 20 May 2020 00:08:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2020 00:08:04 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Deliver an exceptional accessibility experience</title>
+            <link>https://developer.apple.com/news/?id=z88unmt7</link>
+            <description>&#60;p&#62;Deliver an exceptional accessibility experience&#60;/p&#62;&#60;p&#62;Go beyond the basics and create apps with an exceptional accessibility experience. Learn how to design elements that appear in your app for maximum clarity and accessibility. Discover how to enhance the way users interact with your app even when presenting custom views&#44; or drawing complex UI.&#60;/p&#62;</description>
+            <pubDate>Wed, 20 May 2020 17:00:39 +0000</pubDate>
+            <guid isPermaLink="false">E66D088E-5C72-410C-BB99-152A009F5DBE</guid>
+        </item>
         <item>
             <title>Enhance the VoiceOver experience in your app</title>
             <link>https://developer.apple.com/news/?id=v56qu1b3</link>
@@ -997,18 +1004,18 @@
             <guid isPermaLink="false">CD8F1609-BB21-481C-A762-1D3E24862863</guid>
         </item>
         <item>
-            <title>Submit Your Apps to the &#123;Mac App Store&#125;</title>
-            <link>https://developer.apple.com/news/?id=10032019b</link>
-            <description>&#60;p&#62;Submit Your Apps to the &#123;Mac App Store&#125;&#60;/p&#62;&#60;p&#62;&#123;macOS Catalina&#125; will soon be available to hundreds of millions of users around the world. With &#123;macOS Catalina&#44;&#125; your Mac apps can take advantage of &#123;Sign in with Apple&#44;&#125; Sidecar&#44; and the latest advances in &#123;Core ML 3&#44;&#125; and Metal. And with &#123;Mac Catalyst&#125;&#44; you can bring your iPad apps to Mac. Build your apps using &#123;Xcode 11&#44;&#125; test them on a Mac computer running the &#123;macOS Catalina&#125; &#123;GM seed&#44;&#125; and submit them for review.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/macos/submit/&#34;&#62;Learn about preparing your apps&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
-            <guid isPermaLink="false">9342EC74-2658-4E50-A0D9-7714ED6A9246</guid>
-        </item>
-        <item>
             <title>Notarize Your Mac Software for &#123;macOS Catalina&#125;</title>
             <link>https://developer.apple.com/news/?id=10032019a</link>
             <description>&#60;p&#62;Notarize Your Mac Software for &#123;macOS Catalina&#125;&#60;/p&#62;&#60;p&#62;To further protect users on &#123;macOS Catalina&#44;&#125; we&#8217;re working with developers to make sure all software&#44; whether distributed on the &#123;App Store&#125; or outside of it&#44; is signed or notarized by Apple. This will give users more confidence that the software they download and run&#44; no matter where they get it from&#44; has been checked for known security issues.&#60;/p&#62;&#60;p&#62;In June&#44; we announced that all Mac software distributed outside the &#123;Mac App Store&#125; must be notarized by Apple in order to run by default on &#123;macOS Catalina.&#125; Make sure to test all versions of your software on the &#123;macOS Catalina&#125; &#123;GM seed&#125; and submit it to Apple to &#123;be notarized&#125;.&#60;/p&#62;</description>
             <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
             <guid isPermaLink="false">8FAAD7E3-E314-4DAD-AD21-BCAF9C0E23D8</guid>
+        </item>
+        <item>
+            <title>Submit Your Apps to the &#123;Mac App Store&#125;</title>
+            <link>https://developer.apple.com/news/?id=10032019b</link>
+            <description>&#60;p&#62;Submit Your Apps to the &#123;Mac App Store&#125;&#60;/p&#62;&#60;p&#62;&#123;macOS Catalina&#125; will soon be available to hundreds of millions of users around the world. With &#123;macOS Catalina&#44;&#125; your Mac apps can take advantage of &#123;Sign in with Apple&#44;&#125; Sidecar&#44; and the latest advances in &#123;Core ML 3&#44;&#125; and Metal. And with &#123;Mac Catalyst&#125;&#44; you can bring your iPad apps to Mac. Build your apps using &#123;Xcode 11&#44;&#125; test them on a Mac computer running the &#123;macOS Catalina&#125; &#123;GM seed&#44;&#125; and submit them for review.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/macos/submit/&#34;&#62;Learn about preparing your apps&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
+            <guid isPermaLink="false">9342EC74-2658-4E50-A0D9-7714ED6A9246</guid>
         </item>
         <item>
             <title>Exchange Rate Changes Will Affect &#123;App Store&#125; Prices in Certain Regions</title>
@@ -1088,18 +1095,18 @@
             <guid isPermaLink="false">122909E6-9B82-4732-A63C-3BF531292A0A</guid>
         </item>
         <item>
-            <title>Submitting a Capability Request for Apps Using MDM</title>
-            <link>https://developer.apple.com/news/?id=09062019a</link>
-            <description>&#60;p&#62;Submitting a Capability Request for Apps Using MDM&#60;/p&#62;&#60;p&#62;Mobile Device Management (MDM) is a powerful and wide-reaching technology that grants a broad range of access to and control over users&#8217; devices. While these capabilities are necessary to effectively manage a large number of devices&#44; and in limited cases for parental control services&#44; they also have the potential to create user privacy and security issues if not used properly.&#60;/p&#62;&#60;p&#62;In June&#44; we announced that apps seeking to include MDM technology must first submit an MDM capability request. This process will evaluate how the app will use MDM in order to prevent abuse and ensure that no data is shared with third parties. The MDM capability will be re-evaluated on an annual basis&#44; and you will need to submit a new request each year. We have worked with developers of parental control apps who have successfully completed this process and are now providing safer apps for kids and their families.&#60;/p&#62;&#60;p&#62;This new guideline was effective for all apps on June 3&#44; 2019. If you already have an app on the &#123;App Store&#125; that uses MDM capabilities but does not follow the new guideline&#44; &#60;a href&#61;&#34;https://developer.apple.com/contact/request/mdm-capability&#34;&#62;submit an MDM capability&#60;/a&#62; request as soon as possible.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#mobile-device-management&#34;&#62;View the Mobile Device Management guideline&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Fri, 06 Sep 2019 20:00:00 +0000</pubDate>
-            <guid isPermaLink="false">2A9B553F-A789-4525-A561-ECE883D85D6F</guid>
-        </item>
-        <item>
             <title>App Updates for HTML5 Apps</title>
             <link>https://developer.apple.com/news/?id=09062019b</link>
             <description>&#60;p&#62;App Updates for HTML5 Apps&#60;/p&#62;&#60;p&#62;In order to provide users with the secure and curated experience that they expect on the &#123;App Store&#44;&#125; we have always specified that apps must be self-contained bundles. This means that the core features and functionality of the app must be contained within the binary of the software&#44; rather than made possible by referring users outside of the approved app&#44; including through the use of HTML5. Apps that provide core features and functionality dynamically with web technology like HTML5 are best delivered to everyone in Safari&#44; rather than through the curated &#123;App Store.&#125;&#60;/p&#62;&#60;p&#62;To prevent fraud and abuse&#44; the exceptions to this rule have always been very narrow. In June&#44; we updated &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#third-party-software&#34;&#62;guideline 4.7 sections 4&#44; 5&#44; &#38;amp; 6&#60;/a&#62;&#44; to further narrow these exceptions and clarify an existing restriction. Apps containing or running code that is not embedded in the binary cannot provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; among other changes.&#60;/p&#62;&#60;p&#62;All new apps must follow this guideline and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement the guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into compliance.&#60;/p&#62;</description>
             <pubDate>Fri, 06 Sep 2019 20:00:00 +0000</pubDate>
             <guid isPermaLink="false">54D699EF-021A-4ABB-87C5-1FB5AE920F9F</guid>
+        </item>
+        <item>
+            <title>Submitting a Capability Request for Apps Using MDM</title>
+            <link>https://developer.apple.com/news/?id=09062019a</link>
+            <description>&#60;p&#62;Submitting a Capability Request for Apps Using MDM&#60;/p&#62;&#60;p&#62;Mobile Device Management (MDM) is a powerful and wide-reaching technology that grants a broad range of access to and control over users&#8217; devices. While these capabilities are necessary to effectively manage a large number of devices&#44; and in limited cases for parental control services&#44; they also have the potential to create user privacy and security issues if not used properly.&#60;/p&#62;&#60;p&#62;In June&#44; we announced that apps seeking to include MDM technology must first submit an MDM capability request. This process will evaluate how the app will use MDM in order to prevent abuse and ensure that no data is shared with third parties. The MDM capability will be re-evaluated on an annual basis&#44; and you will need to submit a new request each year. We have worked with developers of parental control apps who have successfully completed this process and are now providing safer apps for kids and their families.&#60;/p&#62;&#60;p&#62;This new guideline was effective for all apps on June 3&#44; 2019. If you already have an app on the &#123;App Store&#125; that uses MDM capabilities but does not follow the new guideline&#44; &#60;a href&#61;&#34;https://developer.apple.com/contact/request/mdm-capability&#34;&#62;submit an MDM capability&#60;/a&#62; request as soon as possible.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#mobile-device-management&#34;&#62;View the Mobile Device Management guideline&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Fri, 06 Sep 2019 20:00:00 +0000</pubDate>
+            <guid isPermaLink="false">2A9B553F-A789-4525-A561-ECE883D85D6F</guid>
         </item>
         <item>
             <title>Notarizing Your Mac Software for &#123;macOS Catalina&#125;</title>
@@ -1144,20 +1151,6 @@
             <guid isPermaLink="false">D4A55970-00C3-4D7A-B64A-63CE4326512E</guid>
         </item>
         <item>
-            <title>See What&#8217;s New on Apple Platforms</title>
-            <link>https://developer.apple.com/news/?id=06032019a</link>
-            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
-        </item>
-        <item>
-            <title>Siri</title>
-            <link>https://developer.apple.com/news/?id=06032019g</link>
-            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
-        </item>
-        <item>
             <title>Sign in with Apple</title>
             <link>https://developer.apple.com/news/?id=06032019d</link>
             <description>&#60;p&#62;Sign in with Apple&#60;/p&#62;&#60;p&#62;Now users can sign in to your apps and websites with their Apple ID&#44; and can even use Face ID or Touch ID. With privacy and security features&#44; Sign in with Apple is a great way to help your users set up an account and get started right away.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
@@ -1172,32 +1165,11 @@
             <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
         </item>
         <item>
-            <title>Augmented Reality</title>
-            <link>https://developer.apple.com/news/?id=06032019f</link>
-            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
-        </item>
-        <item>
-            <title>Machine Learning</title>
-            <link>https://developer.apple.com/news/?id=06032019e</link>
-            <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
-        </item>
-        <item>
             <title>Updates to the App Store Review Guidelines</title>
             <link>https://developer.apple.com/news/?id=06032019j</link>
             <description>&#60;p&#62;Updates to the App Store Review Guidelines&#60;/p&#62;&#60;p&#62;The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful&#44; we sometimes need to update the App Store Review Guidelines.&#60;/p&#62;&#60;p&#62;Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps&#44; unless otherwise indicated.&#60;/p&#62;&#60;ul&#62;&#60;li&#62;&#60;strong&#62;Guidelines 1.3 and 5.1.4.&#60;/strong&#62; In order to help keep kids&#8217; data private&#44; apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.7.&#60;/strong&#62; HTML5 games distributed in apps may not provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; and may not support digital commerce. This functionality is only appropriate for code that&#8217;s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.4.&#60;/strong&#62; Because VPN provides access to sensitive data&#44; VPN apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy. Certain types of apps &#8212; such as those for parental control&#44; content blocking&#44; and security &#8212; from approved providers may use the NEVPNManager API.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.5. (New)&#60;/strong&#62; Because MDM provides access to sensitive data&#44; MDM apps must request the mobile device management capability&#44; and may only be offered by commercial enterprises&#44; such as business organizations&#44; educational institutions&#44; or government agencies&#44; and&#44; in limited cases&#44; companies utilizing MDM for parental controls. MDM apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.3(i).&#60;/strong&#62; Apps may use a user&#8217;s health or fitness data to provide a benefit directly to that user&#44; such as a reduced insurance premium&#44; if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(viii) (New).&#60;/strong&#62; Apps that compile information from any source that is not directly from the user or without the user&#8217;s explicit consent&#44; even public databases&#44; are not permitted on the App Store.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(ii).&#60;/strong&#62; Apps must get consent for data collection&#44; even if the data is considered anonymous at the time of or immediately following collection.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 1.1.3.&#60;/strong&#62; Apps may not facilitate purchase of ammunition.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.2.7.&#60;/strong&#62; Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.&#60;/li&#62;&#60;/ul&#62;&#60;p&#62;Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.&#60;/p&#62;&#60;p&#62;Sign in with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.&#60;/p&#62;&#60;p&#62;&#123;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/&#34;&#62;Read App Store Review Guidelines&#60;/a&#62;&#125;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
             <guid isPermaLink="false">DA75EFAE-344E-4FFA-8372-5337BCBD6617</guid>
-        </item>
-        <item>
-            <title>Notarization Requirement for Mac Software</title>
-            <link>https://developer.apple.com/news/?id=06032019i</link>
-            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
         </item>
         <item>
             <title>Feedback Assistant</title>
@@ -1212,6 +1184,41 @@
             <description>&#60;p&#62;SwiftUI&#60;/p&#62;&#60;p&#62;SwiftUI is an innovative new way to build user interfaces across all Apple platforms&#44; so you can create better apps with less code. With a declarative Swift syntax that&#8217;s easy to read and natural to write&#44; SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type&#44; Dark Mode&#44; localization&#44; and accessibility means your first line of SwiftUI code is already the most powerful UI code you&#8217;ve ever written.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/xcode/swiftui/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
             <guid isPermaLink="false">AB52E172-8911-4292-8E11-16E49B213F06</guid>
+        </item>
+        <item>
+            <title>See What&#8217;s New on Apple Platforms</title>
+            <link>https://developer.apple.com/news/?id=06032019a</link>
+            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
+        </item>
+        <item>
+            <title>Siri</title>
+            <link>https://developer.apple.com/news/?id=06032019g</link>
+            <description>&#60;p&#62;Siri&#60;/p&#62;&#60;p&#62;Use the latest advances in Siri to provide an interactive voice experience with follow-up questions&#44; additional shortcut customization&#44; and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in&#44; provide directions in Maps&#44; add the event to Calendar&#44; and more. And with the Shortcuts app built in to iOS 13&#44; it&#8217;s even faster for users to find&#44; use&#44; and combine shortcuts.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/siri/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">115D8F1B-CA80-4CAD-8FED-7E553069CCEB</guid>
+        </item>
+        <item>
+            <title>Notarization Requirement for Mac Software</title>
+            <link>https://developer.apple.com/news/?id=06032019i</link>
+            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
+        </item>
+        <item>
+            <title>Augmented Reality</title>
+            <link>https://developer.apple.com/news/?id=06032019f</link>
+            <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">49262950-592B-4C1B-9933-621B97F545D6</guid>
+        </item>
+        <item>
+            <title>Machine Learning</title>
+            <link>https://developer.apple.com/news/?id=06032019e</link>
+            <description>&#60;p&#62;Machine Learning&#60;/p&#62;&#60;p&#62;Core ML 3 seamlessly uses the CPU&#44; GPU&#44; and Neural Engine to provide maximum performance and efficiency&#44; and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build&#44; train&#44; and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/machine-learning/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
         </item>
     </channel>
 </rss>
