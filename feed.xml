@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 27 May 2020 00:14:59 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2020 00:17:19 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Designing notifications</title>
+            <link>https://developer.apple.com/news/?id=qurvs4ma</link>
+            <description>&#60;p&#62;Designing notifications&#60;/p&#62;&#60;p&#62;Thoughtfully designed notifications are a powerful way to communicate timely information to people that they will find valuable and useful. Learn how you can design notifications people want to receive by making them beautiful&#44; helpful&#44; actionable&#44; and respectful of their valuable time and attention.&#60;/p&#62;</description>
+            <pubDate>Wed, 27 May 2020 17:00:28 +0000</pubDate>
+            <guid isPermaLink="false">39129ED3-9663-4F95-99EF-2EE992716EB4</guid>
+        </item>
         <item>
             <title>Designing for privacy</title>
             <link>https://developer.apple.com/news/?id=hr3fo4ao</link>
@@ -1172,11 +1179,25 @@
             <guid isPermaLink="false">D4A55970-00C3-4D7A-B64A-63CE4326512E</guid>
         </item>
         <item>
-            <title>See What&#8217;s New on Apple Platforms</title>
-            <link>https://developer.apple.com/news/?id=06032019a</link>
-            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>Feedback Assistant</title>
+            <link>https://developer.apple.com/news/?id=06032019h</link>
+            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
+            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
+        </item>
+        <item>
+            <title>Notarization Requirement for Mac Software</title>
+            <link>https://developer.apple.com/news/?id=06032019i</link>
+            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
+        </item>
+        <item>
+            <title>Sign in with Apple</title>
+            <link>https://developer.apple.com/news/?id=06032019d</link>
+            <description>&#60;p&#62;Sign in with Apple&#60;/p&#62;&#60;p&#62;Now users can sign in to your apps and websites with their Apple ID&#44; and can even use Face ID or Touch ID. With privacy and security features&#44; Sign in with Apple is a great way to help your users set up an account and get started right away.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
+            <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
         </item>
         <item>
             <title>Siri</title>
@@ -1193,13 +1214,6 @@
             <guid isPermaLink="false">BF024DF5-79D8-487F-916A-2E338D9230DB</guid>
         </item>
         <item>
-            <title>Updates to the App Store Review Guidelines</title>
-            <link>https://developer.apple.com/news/?id=06032019j</link>
-            <description>&#60;p&#62;Updates to the App Store Review Guidelines&#60;/p&#62;&#60;p&#62;The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful&#44; we sometimes need to update the App Store Review Guidelines.&#60;/p&#62;&#60;p&#62;Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps&#44; unless otherwise indicated.&#60;/p&#62;&#60;ul&#62;&#60;li&#62;&#60;strong&#62;Guidelines 1.3 and 5.1.4.&#60;/strong&#62; In order to help keep kids&#8217; data private&#44; apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.7.&#60;/strong&#62; HTML5 games distributed in apps may not provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; and may not support digital commerce. This functionality is only appropriate for code that&#8217;s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.4.&#60;/strong&#62; Because VPN provides access to sensitive data&#44; VPN apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy. Certain types of apps &#8212; such as those for parental control&#44; content blocking&#44; and security &#8212; from approved providers may use the NEVPNManager API.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.5. (New)&#60;/strong&#62; Because MDM provides access to sensitive data&#44; MDM apps must request the mobile device management capability&#44; and may only be offered by commercial enterprises&#44; such as business organizations&#44; educational institutions&#44; or government agencies&#44; and&#44; in limited cases&#44; companies utilizing MDM for parental controls. MDM apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.3(i).&#60;/strong&#62; Apps may use a user&#8217;s health or fitness data to provide a benefit directly to that user&#44; such as a reduced insurance premium&#44; if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(viii) (New).&#60;/strong&#62; Apps that compile information from any source that is not directly from the user or without the user&#8217;s explicit consent&#44; even public databases&#44; are not permitted on the App Store.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(ii).&#60;/strong&#62; Apps must get consent for data collection&#44; even if the data is considered anonymous at the time of or immediately following collection.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 1.1.3.&#60;/strong&#62; Apps may not facilitate purchase of ammunition.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.2.7.&#60;/strong&#62; Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.&#60;/li&#62;&#60;/ul&#62;&#60;p&#62;Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.&#60;/p&#62;&#60;p&#62;Sign in with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.&#60;/p&#62;&#60;p&#62;&#123;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/&#34;&#62;Read App Store Review Guidelines&#60;/a&#62;&#125;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">DA75EFAE-344E-4FFA-8372-5337BCBD6617</guid>
-        </item>
-        <item>
             <title>Augmented Reality</title>
             <link>https://developer.apple.com/news/?id=06032019f</link>
             <description>&#60;p&#62;Augmented Reality&#60;/p&#62;&#60;p&#62;ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app&#44; the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world&#44; and much more. It&#8217;s easy to prototype and produce AR experiences with Reality Composer &#8212; a powerful new app that lets you easily create AR experiences&#44; and RealityKit &#8212; a new high-level augmented reality framework.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/augmented-reality/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
@@ -1214,25 +1228,18 @@
             <guid isPermaLink="false">B69A57B8-6036-4E56-8521-422278F685CA</guid>
         </item>
         <item>
-            <title>Sign in with Apple</title>
-            <link>https://developer.apple.com/news/?id=06032019d</link>
-            <description>&#60;p&#62;Sign in with Apple&#60;/p&#62;&#60;p&#62;Now users can sign in to your apps and websites with their Apple ID&#44; and can even use Face ID or Touch ID. With privacy and security features&#44; Sign in with Apple is a great way to help your users set up an account and get started right away.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>Updates to the App Store Review Guidelines</title>
+            <link>https://developer.apple.com/news/?id=06032019j</link>
+            <description>&#60;p&#62;Updates to the App Store Review Guidelines&#60;/p&#62;&#60;p&#62;The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful&#44; we sometimes need to update the App Store Review Guidelines.&#60;/p&#62;&#60;p&#62;Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps&#44; unless otherwise indicated.&#60;/p&#62;&#60;ul&#62;&#60;li&#62;&#60;strong&#62;Guidelines 1.3 and 5.1.4.&#60;/strong&#62; In order to help keep kids&#8217; data private&#44; apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.7.&#60;/strong&#62; HTML5 games distributed in apps may not provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; and may not support digital commerce. This functionality is only appropriate for code that&#8217;s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3&#44; 2019.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.4.&#60;/strong&#62; Because VPN provides access to sensitive data&#44; VPN apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy. Certain types of apps &#8212; such as those for parental control&#44; content blocking&#44; and security &#8212; from approved providers may use the NEVPNManager API.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.5. (New)&#60;/strong&#62; Because MDM provides access to sensitive data&#44; MDM apps must request the mobile device management capability&#44; and may only be offered by commercial enterprises&#44; such as business organizations&#44; educational institutions&#44; or government agencies&#44; and&#44; in limited cases&#44; companies utilizing MDM for parental controls. MDM apps may not sell&#44; use&#44; or disclose to third parties any data for any purpose&#44; and must commit to this in their privacy policy.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.3(i).&#60;/strong&#62; Apps may use a user&#8217;s health or fitness data to provide a benefit directly to that user&#44; such as a reduced insurance premium&#44; if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(viii) (New).&#60;/strong&#62; Apps that compile information from any source that is not directly from the user or without the user&#8217;s explicit consent&#44; even public databases&#44; are not permitted on the App Store.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 5.1.1(ii).&#60;/strong&#62; Apps must get consent for data collection&#44; even if the data is considered anonymous at the time of or immediately following collection.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 1.1.3.&#60;/strong&#62; Apps may not facilitate purchase of ammunition.&#60;/li&#62;&#60;li&#62;&#60;strong&#62;Guideline 4.2.7.&#60;/strong&#62; Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.&#60;/li&#62;&#60;/ul&#62;&#60;p&#62;Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.&#60;/p&#62;&#60;p&#62;Sign in with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.&#60;/p&#62;&#60;p&#62;&#123;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/&#34;&#62;Read App Store Review Guidelines&#60;/a&#62;&#125;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">74F519F7-EAF1-4187-A605-3507736BB187</guid>
+            <guid isPermaLink="false">DA75EFAE-344E-4FFA-8372-5337BCBD6617</guid>
         </item>
         <item>
-            <title>Notarization Requirement for Mac Software</title>
-            <link>https://developer.apple.com/news/?id=06032019i</link>
-            <description>&#60;p&#62;Notarization Requirement for Mac Software&#60;/p&#62;&#60;p&#62;Mac apps&#44; installer packages&#44; and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on &#123;macOS Catalina.&#125; This will help give users more confidence that the software they download and run&#44; no matter where they get it from&#44; is not malware by showing a more streamlined Gatekeeper interface.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/developer-id/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
+            <title>See What&#8217;s New on Apple Platforms</title>
+            <link>https://developer.apple.com/news/?id=06032019a</link>
+            <description>&#60;p&#62;See What&#8217;s New on Apple Platforms&#60;/p&#62;&#60;p&#62;Create seamless&#44; intelligent&#44; and engaging experiences with the Xcode 11 beta&#44; which includes the SDKs for iOS 13&#44; watchOS 6&#44; tvOS 13&#44; and &#123;macOS Catalina.&#125;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">C86454F7-A565-47C1-80D8-1E583DA38A5D</guid>
-        </item>
-        <item>
-            <title>Feedback Assistant</title>
-            <link>https://developer.apple.com/news/?id=06032019h</link>
-            <description>&#60;p&#62;Feedback Assistant&#60;/p&#62;&#60;p&#62;You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac&#44; which features automatic on-device diagnostics&#44; remote bug filing&#44; more detailed bug forms&#44; and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/&#34;&#62;Learn more&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Mon, 03 Jun 2019 19:00:00 +0000</pubDate>
-            <guid isPermaLink="false">5AA68D22-963A-45ED-A00A-D09243B75417</guid>
+            <guid isPermaLink="false">D2606FD3-1AE6-4E74-8580-62595878AB9E</guid>
         </item>
         <item>
             <title>SwiftUI</title>
