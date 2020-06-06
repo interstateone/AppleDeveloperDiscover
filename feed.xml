@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 05 Jun 2020 00:12:37 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2020 00:12:33 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>New Resources Available for Password Manager Apps</title>
+            <link>https://developer.apple.com/news/?id=06052020a</link>
+            <description>&#60;p&#62;New Resources Available for Password Manager Apps&#60;/p&#62;&#60;p&#62;Apple has created a new open source project to help developers of password managers collaborate to create strong passwords that are compatible with popular websites. The Password Manager Resources open source project allows you to integrate website-specific requirements used by the iCloud Keychain password manager to generate strong&#44; unique passwords. The project also contains collections of websites known to share a sign-in system&#44; links to websites&#8217; pages where users change passwords&#44; and more. &#60;a href&#61;&#34;https://github.com/apple/password-manager-resources&#34;&#62;View Password Manager Resources&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Fri, 05 Jun 2020 15:45:13 +0000</pubDate>
+            <guid isPermaLink="false">4E84FC7B-63D3-4D59-9D99-903D65384550</guid>
+        </item>
         <item>
             <title>Meet the developer: Christopher Gray</title>
             <link>https://developer.apple.com/news/?id=9cvnv50x</link>
