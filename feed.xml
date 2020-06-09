@@ -5,10 +5,17 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Mon, 08 Jun 2020 00:12:53 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2020 00:12:29 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Debugging in Xcode 11</title>
+            <link>https://developer.apple.com/news/?id=ft7iy90m</link>
+            <description>&#60;p&#62;Debugging in Xcode 11&#60;/p&#62;&#60;p&#62;Discover how to simulate network conditions and thermal states&#44; and how to override your app&#39;s runtime environment while debugging. See how the debugging features work with Xcode previews to identify issues before Build &#38;amp; Run. Learn how to work with the View Debugger to troubleshoot your SwiftUI views.&#60;/p&#62;</description>
+            <pubDate>Mon, 08 Jun 2020 17:00:03 +0000</pubDate>
+            <guid isPermaLink="false">724D5F1B-9BC1-4A6F-A574-7B56257941B3</guid>
+        </item>
         <item>
             <title>New Resources Available for Password Manager Apps</title>
             <link>https://developer.apple.com/news/?id=06052020a</link>
