@@ -5,10 +5,24 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 11 Jun 2020 00:12:31 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2020 00:12:48 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Here&#8217;s the lineup.</title>
+            <link>https://developer.apple.com/news/?id=06112020</link>
+            <description>&#60;p&#62;Here&#8217;s the lineup.&#60;/p&#62;&#60;p&#62;WWDC20 will bring together millions of Apple developers around the world to gain early access to the future of Apple platforms and engage with Apple engineers&#44; from June 22 to 26. Learn about the Special Event Keynote&#44; Platforms State of the Union&#44; over 100 engineering sessions&#44; one-on-one developer labs&#44; and more. &#60;a href&#61;&#34;https://developer.apple.com/wwdc/&#34;&#62;Learn more about WWDC20&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Thu, 11 Jun 2020 14:00:19 +0000</pubDate>
+            <guid isPermaLink="false">173A6E05-F960-4446-8788-E8AA9AD2BE7C</guid>
+        </item>
+        <item>
+            <title>Enhance bug reports with debug profiles and logging</title>
+            <link>https://developer.apple.com/news/?id=2o2p68bq</link>
+            <description>&#60;p&#62;Enhance bug reports with debug profiles and logging&#60;/p&#62;&#60;p&#62;When you file bug reports through Apple&#8217;s Feedback Assistant&#44; you&#8217;re helping flag issues&#44; improve our platforms&#44; and make the experience better for developers and customers alike.&#60;/p&#62;&#60;p&#62;You can supply more information about bugs you come across when you provide a sysdiagnose from your device. Sysdiagnoses contain logs that include additional information gathered from apps and frameworks that you can submit as part of your bug report. They can be a crucial part of the bug-solving process&#44; especially for troubleshooting certain problems.&#60;/p&#62;&#60;p&#62;That said&#44; a sysdiagnose can contain a lot of information&#44; and you can help the engineers triaging your issue by providing some additional context. That&#39;s where Apple&#8217;s &#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/profiles-and-logs/&#34;&#62;Profiles and Logs&#60;/a&#62; page comes in: It provides supplemental instructions when reporting an issue with specific frameworks. If you think you know which framework is causing the problem&#44; read its bug reporting and logging instructions: You may be able to provide additional information that can help make your report more actionable &#8212;&#160;like detailing the song that was playing and the date and time you saw the bug.&#60;/p&#62;&#60;p&#62;Sometimes&#44; a sysdiagnose is not enough&#44; even with supplemental instruction. For those issues&#44; debug profiles help capture specific details within a technology or framework that can aid engineers in diagnosing the problem. To install a debug profile&#44; download it to your device and follow the instructions to capture the requested information.&#60;/p&#62;&#60;p&#62;So&#44; the next time you go to file a new piece of feedback&#44; please add a sysdiagnose or logging generated from a debug profile to your report. It can help engineers begin tracking down even the trickiest of bugs&#44; and it increases the likelihood of your issue being fixed. As always&#44; the sooner you submit a new problem &#8212;&#160;and the more information you provide &#8212;&#160;the higher likelihood you have of getting it resolved in a future software version.&#60;/p&#62;&#60;p&#62;This is especially crucial when filing bugs against beta software&#44; as prioritizations around fixes have to be made in early seeds. If you file a detailed bug with logs and a clear reproduction path&#44; you have a much better chance of it being prioritized than a bug with no additional information. Resources &#60;a href&#61;&#34;https://developer.apple.com/bug-reporting/profiles-and-logs/&#34;&#62;Learn more about debug profiles and logging &#38;gt;&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/news/?id&#61;vvrgkboh&#34;&#62;Learn more about filing great bug reports &#38;gt;&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Wed, 10 Jun 2020 17:00:29 +0000</pubDate>
+            <guid isPermaLink="false">42860945-CA21-4EE0-A174-4034737E8A19</guid>
+        </item>
         <item>
             <title>How to file great bug reports</title>
             <link>https://developer.apple.com/news/?id=vvrgkboh</link>
@@ -1088,18 +1102,18 @@
             <guid isPermaLink="false">CD8F1609-BB21-481C-A762-1D3E24862863</guid>
         </item>
         <item>
-            <title>Submit Your Apps to the &#123;Mac App Store&#125;</title>
-            <link>https://developer.apple.com/news/?id=10032019b</link>
-            <description>&#60;p&#62;Submit Your Apps to the &#123;Mac App Store&#125;&#60;/p&#62;&#60;p&#62;&#123;macOS Catalina&#125; will soon be available to hundreds of millions of users around the world. With &#123;macOS Catalina&#44;&#125; your Mac apps can take advantage of &#123;Sign in with Apple&#44;&#125; Sidecar&#44; and the latest advances in &#123;Core ML 3&#44;&#125; and Metal. And with &#123;Mac Catalyst&#125;&#44; you can bring your iPad apps to Mac. Build your apps using &#123;Xcode 11&#44;&#125; test them on a Mac computer running the &#123;macOS Catalina&#125; &#123;GM seed&#44;&#125; and submit them for review.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/macos/submit/&#34;&#62;Learn about preparing your apps&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
-            <guid isPermaLink="false">9342EC74-2658-4E50-A0D9-7714ED6A9246</guid>
-        </item>
-        <item>
             <title>Notarize Your Mac Software for &#123;macOS Catalina&#125;</title>
             <link>https://developer.apple.com/news/?id=10032019a</link>
             <description>&#60;p&#62;Notarize Your Mac Software for &#123;macOS Catalina&#125;&#60;/p&#62;&#60;p&#62;To further protect users on &#123;macOS Catalina&#44;&#125; we&#8217;re working with developers to make sure all software&#44; whether distributed on the &#123;App Store&#125; or outside of it&#44; is signed or notarized by Apple. This will give users more confidence that the software they download and run&#44; no matter where they get it from&#44; has been checked for known security issues.&#60;/p&#62;&#60;p&#62;In June&#44; we announced that all Mac software distributed outside the &#123;Mac App Store&#125; must be notarized by Apple in order to run by default on &#123;macOS Catalina.&#125; Make sure to test all versions of your software on the &#123;macOS Catalina&#125; &#123;GM seed&#125; and submit it to Apple to &#123;be notarized&#125;.&#60;/p&#62;</description>
             <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
             <guid isPermaLink="false">8FAAD7E3-E314-4DAD-AD21-BCAF9C0E23D8</guid>
+        </item>
+        <item>
+            <title>Submit Your Apps to the &#123;Mac App Store&#125;</title>
+            <link>https://developer.apple.com/news/?id=10032019b</link>
+            <description>&#60;p&#62;Submit Your Apps to the &#123;Mac App Store&#125;&#60;/p&#62;&#60;p&#62;&#123;macOS Catalina&#125; will soon be available to hundreds of millions of users around the world. With &#123;macOS Catalina&#44;&#125; your Mac apps can take advantage of &#123;Sign in with Apple&#44;&#125; Sidecar&#44; and the latest advances in &#123;Core ML 3&#44;&#125; and Metal. And with &#123;Mac Catalyst&#125;&#44; you can bring your iPad apps to Mac. Build your apps using &#123;Xcode 11&#44;&#125; test them on a Mac computer running the &#123;macOS Catalina&#125; &#123;GM seed&#44;&#125; and submit them for review.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/macos/submit/&#34;&#62;Learn about preparing your apps&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Thu, 03 Oct 2019 18:00:00 +0000</pubDate>
+            <guid isPermaLink="false">9342EC74-2658-4E50-A0D9-7714ED6A9246</guid>
         </item>
         <item>
             <title>Exchange Rate Changes Will Affect &#123;App Store&#125; Prices in Certain Regions</title>
@@ -1151,18 +1165,18 @@
             <guid isPermaLink="false">107EC978-4AB6-4BE1-B716-77E463FC1E93</guid>
         </item>
         <item>
-            <title>New Guidelines for Sign in with Apple</title>
-            <link>https://developer.apple.com/news/?id=09122019b</link>
-            <description>&#60;p&#62;New Guidelines for Sign in with Apple&#60;/p&#62;&#60;p&#62;Make it easy for users to sign in to your apps and websites using the &#123;Apple ID&#125; they already have. With privacy and security features built-in&#44; &#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Sign in with Apple&#60;/a&#62; is a great way to help users set up an account&#44; sign in&#44; and engage with your app quickly and easily. All accounts are protected with two-factor authentication for superior security&#44; and Apple will not track users&#8217; activity in your app or website.&#60;/p&#62;&#60;p&#62;We&#8217;ve updated the &#123;App Store&#125; Review Guidelines to provide criteria for when apps are required to use &#123;Sign in with Apple&#125;. Starting today&#44; new apps submitted to the &#123;App Store&#125; must follow these guidelines. Existing apps and app updates must follow them by &#123;April 2020&#125;. We&#8217;ve also provided new guidelines for using Sign in with Apple on the web and other platforms.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#sign-in-with-apple&#34;&#62;View the App Store review guideline&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/usage-guidelines-for-websites-and-other-platforms/&#34;&#62;View guidelines for websites and other platforms&#60;/a&#62;&#60;/p&#62;</description>
-            <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
-            <guid isPermaLink="false">D03656FC-9B30-474D-BBE3-5E4B7D058773</guid>
-        </item>
-        <item>
             <title>App Updates in the Kids Category</title>
             <link>https://developer.apple.com/news/?id=091202019a</link>
             <description>&#60;p&#62;App Updates in the Kids Category&#60;/p&#62;&#60;p&#62;When parents visit the Kids category on the &#123;App Store&#125;&#44; they expect the apps they find will protect their children&#8217;s data&#44; provide only age-appropriate content&#44; and require a parental gate in order to link out of the app&#44; request permissions&#44; or present purchasing opportunities. It&#8217;s critical that no personally identifiable information or device information be transmitted to third parties&#44; and that advertisements are human-reviewed for age appropriateness in order to be displayed.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids-category&#34;&#62;Guideline 1.3&#60;/a&#62; and &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#kids&#34;&#62;guideline 5.1.4&#60;/a&#62; detail important rules related to apps in the Kids category and we&#8217;ve been working with some developers of existing apps to assist them in the transition to full compliance with this important guideline.&#60;/p&#62;&#60;p&#62;All new apps must follow these guidelines&#44; and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement these guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into full compliance.&#60;/p&#62;</description>
             <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
             <guid isPermaLink="false">D1065DA6-607E-478E-A0AC-71DB05F1BE86</guid>
+        </item>
+        <item>
+            <title>New Guidelines for Sign in with Apple</title>
+            <link>https://developer.apple.com/news/?id=09122019b</link>
+            <description>&#60;p&#62;New Guidelines for Sign in with Apple&#60;/p&#62;&#60;p&#62;Make it easy for users to sign in to your apps and websites using the &#123;Apple ID&#125; they already have. With privacy and security features built-in&#44; &#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/&#34;&#62;Sign in with Apple&#60;/a&#62; is a great way to help users set up an account&#44; sign in&#44; and engage with your app quickly and easily. All accounts are protected with two-factor authentication for superior security&#44; and Apple will not track users&#8217; activity in your app or website.&#60;/p&#62;&#60;p&#62;We&#8217;ve updated the &#123;App Store&#125; Review Guidelines to provide criteria for when apps are required to use &#123;Sign in with Apple&#125;. Starting today&#44; new apps submitted to the &#123;App Store&#125; must follow these guidelines. Existing apps and app updates must follow them by &#123;April 2020&#125;. We&#8217;ve also provided new guidelines for using Sign in with Apple on the web and other platforms.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#sign-in-with-apple&#34;&#62;View the App Store review guideline&#60;/a&#62;&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/sign-in-with-apple/usage-guidelines-for-websites-and-other-platforms/&#34;&#62;View guidelines for websites and other platforms&#60;/a&#62;&#60;/p&#62;</description>
+            <pubDate>Thu, 12 Sep 2019 15:00:00 +0000</pubDate>
+            <guid isPermaLink="false">D03656FC-9B30-474D-BBE3-5E4B7D058773</guid>
         </item>
         <item>
             <title>Submit Your watchOS Apps to the &#123;App Store&#125;</title>
@@ -1179,18 +1193,18 @@
             <guid isPermaLink="false">122909E6-9B82-4732-A63C-3BF531292A0A</guid>
         </item>
         <item>
-            <title>App Updates for HTML5 Apps</title>
-            <link>https://developer.apple.com/news/?id=09062019b</link>
-            <description>&#60;p&#62;App Updates for HTML5 Apps&#60;/p&#62;&#60;p&#62;In order to provide users with the secure and curated experience that they expect on the &#123;App Store&#44;&#125; we have always specified that apps must be self-contained bundles. This means that the core features and functionality of the app must be contained within the binary of the software&#44; rather than made possible by referring users outside of the approved app&#44; including through the use of HTML5. Apps that provide core features and functionality dynamically with web technology like HTML5 are best delivered to everyone in Safari&#44; rather than through the curated &#123;App Store.&#125;&#60;/p&#62;&#60;p&#62;To prevent fraud and abuse&#44; the exceptions to this rule have always been very narrow. In June&#44; we updated &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#third-party-software&#34;&#62;guideline 4.7 sections 4&#44; 5&#44; &#38;amp; 6&#60;/a&#62;&#44; to further narrow these exceptions and clarify an existing restriction. Apps containing or running code that is not embedded in the binary cannot provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; among other changes.&#60;/p&#62;&#60;p&#62;All new apps must follow this guideline and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement the guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into compliance.&#60;/p&#62;</description>
-            <pubDate>Fri, 06 Sep 2019 20:00:00 +0000</pubDate>
-            <guid isPermaLink="false">54D699EF-021A-4ABB-87C5-1FB5AE920F9F</guid>
-        </item>
-        <item>
             <title>Submitting a Capability Request for Apps Using MDM</title>
             <link>https://developer.apple.com/news/?id=09062019a</link>
             <description>&#60;p&#62;Submitting a Capability Request for Apps Using MDM&#60;/p&#62;&#60;p&#62;Mobile Device Management (MDM) is a powerful and wide-reaching technology that grants a broad range of access to and control over users&#8217; devices. While these capabilities are necessary to effectively manage a large number of devices&#44; and in limited cases for parental control services&#44; they also have the potential to create user privacy and security issues if not used properly.&#60;/p&#62;&#60;p&#62;In June&#44; we announced that apps seeking to include MDM technology must first submit an MDM capability request. This process will evaluate how the app will use MDM in order to prevent abuse and ensure that no data is shared with third parties. The MDM capability will be re-evaluated on an annual basis&#44; and you will need to submit a new request each year. We have worked with developers of parental control apps who have successfully completed this process and are now providing safer apps for kids and their families.&#60;/p&#62;&#60;p&#62;This new guideline was effective for all apps on June 3&#44; 2019. If you already have an app on the &#123;App Store&#125; that uses MDM capabilities but does not follow the new guideline&#44; &#60;a href&#61;&#34;https://developer.apple.com/contact/request/mdm-capability&#34;&#62;submit an MDM capability&#60;/a&#62; request as soon as possible.&#60;/p&#62;&#60;p&#62;&#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#mobile-device-management&#34;&#62;View the Mobile Device Management guideline&#60;/a&#62;&#60;/p&#62;</description>
             <pubDate>Fri, 06 Sep 2019 20:00:00 +0000</pubDate>
             <guid isPermaLink="false">2A9B553F-A789-4525-A561-ECE883D85D6F</guid>
+        </item>
+        <item>
+            <title>App Updates for HTML5 Apps</title>
+            <link>https://developer.apple.com/news/?id=09062019b</link>
+            <description>&#60;p&#62;App Updates for HTML5 Apps&#60;/p&#62;&#60;p&#62;In order to provide users with the secure and curated experience that they expect on the &#123;App Store&#44;&#125; we have always specified that apps must be self-contained bundles. This means that the core features and functionality of the app must be contained within the binary of the software&#44; rather than made possible by referring users outside of the approved app&#44; including through the use of HTML5. Apps that provide core features and functionality dynamically with web technology like HTML5 are best delivered to everyone in Safari&#44; rather than through the curated &#123;App Store.&#125;&#60;/p&#62;&#60;p&#62;To prevent fraud and abuse&#44; the exceptions to this rule have always been very narrow. In June&#44; we updated &#60;a href&#61;&#34;https://developer.apple.com/app-store/review/guidelines/#third-party-software&#34;&#62;guideline 4.7 sections 4&#44; 5&#44; &#38;amp; 6&#60;/a&#62;&#44; to further narrow these exceptions and clarify an existing restriction. Apps containing or running code that is not embedded in the binary cannot provide access to real money gaming&#44; lotteries&#44; or charitable donations&#44; among other changes.&#60;/p&#62;&#60;p&#62;All new apps must follow this guideline and we urge you to update your existing apps as soon as possible. If your existing app requires more time to implement the guidelines&#44; we&#8217;ve provided an additional six months&#44; until March 3&#44; 2020&#44; to bring it into compliance.&#60;/p&#62;</description>
+            <pubDate>Fri, 06 Sep 2019 20:00:00 +0000</pubDate>
+            <guid isPermaLink="false">54D699EF-021A-4ABB-87C5-1FB5AE920F9F</guid>
         </item>
         <item>
             <title>Notarizing Your Mac Software for &#123;macOS Catalina&#125;</title>
