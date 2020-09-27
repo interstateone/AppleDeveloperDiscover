@@ -13,6 +13,12 @@ jobs:
         uses: actions/checkout@v2 
         with:
           persist-credentials: false
+      
+      # GHA runners already have the latest Swift toolchain, but 5.3 on Ubuntu had a compiler bug so let's pin it instead      
+      - name: Install Swift 🐦
+        uses: tgymnich/setup-swift@v1
+        with:
+          version: '5.2.5'
 
       - name: Generate 🔧
         run: |
