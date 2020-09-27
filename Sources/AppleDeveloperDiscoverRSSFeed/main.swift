@@ -125,7 +125,7 @@ struct Discover: Decodable {
     }
 }
 
-let discoverJSONURL = URL(string: "https://devimages-cdn.apple.com/wwdc-services/m5ec5ace/F1CF2B37-A0B5-4323-9E18-07283310EDCA/discover.json")!
+let discoverJSONURL = URL(string: "https://devimages-cdn.apple.com/wwdc-services/n233a99f/5D23F1E9-9551-4768-ACF3-E3920F9C572D/discover.json")!
 let decoder = JSONDecoder()
 decoder.dateDecodingStrategy = .iso8601 
 let rfc822DateFormatter = DateFormatter()
