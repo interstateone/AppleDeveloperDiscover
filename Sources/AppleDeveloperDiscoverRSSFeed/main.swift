@@ -68,6 +68,8 @@ struct Discover: Decodable {
                     content = .resource
                 case "detailLink":
                     content = .detailLink
+                case "fixedSpacer":
+                    content = .fixedSpacer
                 default:
                     throw DecodingError.dataCorruptedError(forKey: .type, in: container, debugDescription: "Found unexpected component type \(type)")
                 }
@@ -86,6 +88,7 @@ struct Discover: Decodable {
                 case codeSnippet
                 case resource
                 case detailLink
+                case fixedSpacer
                 
                 var description: String {
                     switch self {
@@ -112,6 +115,8 @@ struct Discover: Decodable {
                     case .resource:
                         return ""
                     case .detailLink:
+                        return ""
+                    case .fixedSpacer:
                         return ""
                     }
                 }
