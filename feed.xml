@@ -5,7 +5,7 @@
         <link>http://developer.apple.com/discover</link>
         <description>A feed scraped from the JSON that backs the Apple Developer iOS app.</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 08 Oct 2020 00:24:04 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2020 00:28:34 +0000</lastBuildDate>
         <docs>https://github.com/interstateone/AppleDeveloperDiscover</docs>
         <ttl>1440</ttl>
         <atom:link href="https://interstateone.github.io/AppleDeveloperDiscover/feed.xml" rel="self" type="application/rss+xml" />
