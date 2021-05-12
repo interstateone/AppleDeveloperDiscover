@@ -16,7 +16,7 @@ jobs:
       
       # GHA runners already have the latest Swift toolchain, but 5.3 on Ubuntu had a compiler bug so let's pin it instead      
       - name: Install Swift 🐦
-        uses: tgymnich/setup-swift@v1
+        uses: tgymnich/setup-swift@v1.0.9
         with:
           version: '5.2.5'
 
